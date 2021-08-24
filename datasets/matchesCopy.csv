@@ -1,0 +1,757 @@
+,season,city,team1,team2,toss_winner,toss_decision,result,winner,win_by_runs,win_by_wickets,player_of_match,umpire1,umpire2,loser,toss/win,batfirst,batsecond
+0,2017,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,35,0,Yuvraj Singh,AY Dandekar,NJ Llong,Royal Challengers Bangalore,,Sunrisers Hyderabad,
+1,2017,Pune,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,7,SPD Smith,A Nand Kishore,S Ravi,Mumbai Indians,Rising Pune Supergiant,,Rising Pune Supergiant
+2,2017,Rajkot,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,10,CA Lynn,Nitin Menon,CK Nandan,Gujarat Lions,Kolkata Knight Riders,,Kolkata Knight Riders
+3,2017,Indore,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,GJ Maxwell,AK Chaudhary,C Shamshuddin,Rising Pune Supergiant,Kings XI Punjab,,Kings XI Punjab
+4,2017,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,15,0,KM Jadhav,Virender Sharma,S Ravi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,
+5,2017,Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,9,Rashid Khan,A Deshmukh,NJ Llong,Gujarat Lions,Sunrisers Hyderabad,,Sunrisers Hyderabad
+6,2017,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,N Rana,Nitin Menon,CK Nandan,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+7,2017,Indore,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,0,8,AR Patel,AK Chaudhary,C Shamshuddin,Royal Challengers Bangalore,,,Kings XI Punjab
+8,2017,Pune,Delhi Daredevils,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Delhi Daredevils,97,0,SV Samson,AY Dandekar,S Ravi,Rising Pune Supergiant,,Delhi Daredevils,
+9,2017,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,JJ Bumrah,Nitin Menon,CK Nandan,Sunrisers Hyderabad,Mumbai Indians,,Mumbai Indians
+10,2017,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,SP Narine,A Deshmukh,NJ Llong,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+11,2017,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,KA Pollard,KN Ananthapadmanabhan,AK Chaudhary,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+12,2017,Rajkot,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,7,AJ Tye,A Nand Kishore,S Ravi,Rising Pune Supergiant,Gujarat Lions,,Gujarat Lions
+13,2017,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,17,0,RV Uthappa,AY Dandekar,NJ Llong,Sunrisers Hyderabad,,Kolkata Knight Riders,
+14,2017,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Delhi Daredevils,51,0,CJ Anderson,YC Barde,Nitin Menon,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,
+15,2017,Mumbai,Gujarat Lions,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,N Rana,A Nand Kishore,S Ravi,Gujarat Lions,Mumbai Indians,,Mumbai Indians
+16,2017,Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rising Pune Supergiant,27,0,BA Stokes,KN Ananthapadmanabhan,C Shamshuddin,Royal Challengers Bangalore,,Rising Pune Supergiant,
+17,2017,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,4,NM Coulter-Nile,Nitin Menon,CK Nandan,Delhi Daredevils,,,Kolkata Knight Riders
+18,2017,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,5,0,B Kumar,AY Dandekar,A Deshmukh,Kings XI Punjab,,Sunrisers Hyderabad,
+19,2017,Rajkot,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore,21,0,CH Gayle,S Ravi,VK Sharma,Gujarat Lions,,Royal Challengers Bangalore,
+20,2017,Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,15,0,KS Williamson,CB Gaffaney,NJ Llong,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,
+21,2017,Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,JC Buttler,M Erasmus,C Shamshuddin,Kings XI Punjab,Mumbai Indians,,Mumbai Indians
+22,2017,Kolkata,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,4,SK Raina,CB Gaffaney,Nitin Menon,Kolkata Knight Riders,Gujarat Lions,,Gujarat Lions
+23,2017,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,14,0,MJ McClenaghan,A Nand Kishore,S Ravi,Delhi Daredevils,,Mumbai Indians,
+24,2017,Pune,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,6,MS Dhoni,AY Dandekar,A Deshmukh,Sunrisers Hyderabad,Rising Pune Supergiant,,Rising Pune Supergiant
+25,2017,Rajkot,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab,26,0,HM Amla,AK Chaudhary,M Erasmus,Gujarat Lions,,Kings XI Punjab,
+26,2017,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,82,0,NM Coulter-Nile,CB Gaffaney,CK Nandan,Royal Challengers Bangalore,,Kolkata Knight Riders,
+27,2017,Mumbai,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,Rising Pune Supergiant,3,0,BA Stokes,A Nand Kishore,S Ravi,Mumbai Indians,,Rising Pune Supergiant,
+28,2017,Pune,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,RV Uthappa,AY Dandekar,NJ Llong,Rising Pune Supergiant,Kolkata Knight Riders,,Kolkata Knight Riders
+29,2017,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,7,AJ Tye,AK Chaudhary,C Shamshuddin,Royal Challengers Bangalore,Gujarat Lions,,Gujarat Lions
+30,2017,Kolkata,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,G Gambhir,NJ Llong,S Ravi,Delhi Daredevils,Kolkata Knight Riders,,Kolkata Knight Riders
+31,2017,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,26,0,Rashid Khan,Nitin Menon,CK Nandan,Kings XI Punjab,,Sunrisers Hyderabad,
+32,2017,Pune,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rising Pune Supergiant,61,0,LH Ferguson,KN Ananthapadmanabhan,M Erasmus,Royal Challengers Bangalore,,Rising Pune Supergiant,
+33,2017,Rajkot,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,tie,Mumbai Indians,0,0,KH Pandya,AK Chaudhary,CB Gaffaney,Gujarat Lions,,,Mumbai Indians
+34,2017,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,10,Sandeep Sharma,YC Barde,CK Nandan,Delhi Daredevils,Kings XI Punjab,,Kings XI Punjab
+35,2017,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,48,0,DA Warner,AY Dandekar,S Ravi,Kolkata Knight Riders,,Sunrisers Hyderabad,
+36,2017,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Mumbai Indians,0,5,RG Sharma,AK Chaudhary,CB Gaffaney,Royal Challengers Bangalore,,,Mumbai Indians
+37,2017,Pune,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,5,BA Stokes,M Erasmus,C Shamshuddin,Gujarat Lions,Rising Pune Supergiant,,Rising Pune Supergiant
+38,2017,Delhi,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,Mohammed Shami,YC Barde,Nitin Menon,Sunrisers Hyderabad,Delhi Daredevils,,Delhi Daredevils
+39,2017,Kolkata,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,4,RA Tripathi,KN Ananthapadmanabhan,A Nand Kishore,Kolkata Knight Riders,Rising Pune Supergiant,,Rising Pune Supergiant
+40,2017,Delhi,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,RR Pant,M Erasmus,Nitin Menon,Gujarat Lions,Delhi Daredevils,,Delhi Daredevils
+41,2017,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,19,0,Sandeep Sharma,CB Gaffaney,C Shamshuddin,Royal Challengers Bangalore,,Kings XI Punjab,
+42,2017,Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Rising Pune Supergiant,12,0,JD Unadkat,KN Ananthapadmanabhan,AK Chaudhary,Sunrisers Hyderabad,,Rising Pune Supergiant,
+43,2017,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,146,0,LMP Simmons,Nitin Menon,CK Nandan,Delhi Daredevils,,Mumbai Indians,
+44,2017,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,SP Narine,AY Dandekar,C Shamshuddin,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+45,2017,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,6,DR Smith,A Nand Kishore,VK Sharma,Kings XI Punjab,Gujarat Lions,,Gujarat Lions
+46,2017,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad,0,7,S Dhawan,KN Ananthapadmanabhan,M Erasmus,Mumbai Indians,,,Sunrisers Hyderabad
+47,2017,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,14,0,MM Sharma,A Nand Kishore,S Ravi,Kolkata Knight Riders,,Kings XI Punjab,
+48,2017,Kanpur,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,2,SS Iyer,YC Barde,AK Chaudhary,Gujarat Lions,Delhi Daredevils,,Delhi Daredevils
+49,2017,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,7,0,WP Saha,A Deshmukh,A Nand Kishore,Mumbai Indians,,Kings XI Punjab,
+50,2017,Delhi,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,normal,Delhi Daredevils,7,0,KK Nair,KN Ananthapadmanabhan,CK Nandan,Rising Pune Supergiant,Delhi Daredevils,Delhi Daredevils,
+51,2017,Kanpur,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,8,Mohammed Siraj,AK Chaudhary,Nitin Menon,Gujarat Lions,Sunrisers Hyderabad,,Sunrisers Hyderabad
+52,2017,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,9,0,AT Rayudu,A Nand Kishore,S Ravi,Kolkata Knight Riders,,Mumbai Indians,
+53,2017,Pune,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,9,JD Unadkat,AY Dandekar,A Deshmukh,Kings XI Punjab,Rising Pune Supergiant,,Rising Pune Supergiant
+54,2017,Delhi,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,10,0,HV Patel,CK Nandan,C Shamshuddin,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,
+55,2017,Mumbai,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,Rising Pune Supergiant,20,0,Washington Sundar,S Ravi,C Shamshuddin,Mumbai Indians,,Rising Pune Supergiant,
+56,2017,Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,NM Coulter-Nile,AK Chaudhary,Nitin Menon,Sunrisers Hyderabad,Kolkata Knight Riders,,Kolkata Knight Riders
+57,2017,Bangalore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,KV Sharma,NJ Llong,Nitin Menon,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+58,2017,Hyderabad,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,normal,Mumbai Indians,1,0,KH Pandya,NJ Llong,S Ravi,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,
+59,2008,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,140,0,BB McCullum,Asad Rauf,RE Koertzen,Royal Challengers Bangalore,,Kolkata Knight Riders,
+60,2008,Chandigarh,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,33,0,MEK Hussey,MR Benson,SL Shastri,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,
+61,2008,Delhi,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,0,9,MF Maharoof,Aleem Dar,GA Pratapkumar,Rajasthan Royals,,,Delhi Daredevils
+62,2008,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,5,MV Boucher,SJ Davis,DJ Harper,Mumbai Indians,,,Royal Challengers Bangalore
+63,2008,Kolkata,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,normal,Kolkata Knight Riders,0,5,DJ Hussey,BF Bowden,K Hariharan,Deccan Chargers,,,Kolkata Knight Riders
+64,2008,Jaipur,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals,0,6,SR Watson,Aleem Dar,RB Tiffin,Kings XI Punjab,,,Rajasthan Royals
+65,2008,Hyderabad,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,0,9,V Sehwag,IL Howell,AM Saheba,Deccan Chargers,,,Delhi Daredevils
+66,2008,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings,6,0,ML Hayden,DJ Harper,GA Pratapkumar,Mumbai Indians,,Chennai Super Kings,
+67,2008,Hyderabad,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,YK Pathan,Asad Rauf,MR Benson,Deccan Chargers,Rajasthan Royals,,Rajasthan Royals
+68,2008,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,66,0,KC Sangakkara,Aleem Dar,AM Saheba,Mumbai Indians,,Kings XI Punjab,
+69,2008,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,SR Watson,MR Benson,IL Howell,Royal Challengers Bangalore,Rajasthan Royals,,Rajasthan Royals
+70,2008,Chennai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,0,9,JDP Oram,BF Bowden,AV Jayaprakash,Kolkata Knight Riders,,,Chennai Super Kings
+71,2008,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,10,AC Gilchrist,Asad Rauf,SL Shastri,Mumbai Indians,Deccan Chargers,,Deccan Chargers
+72,2008,Chandigarh,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,0,4,SM Katich,RE Koertzen,I Shivram,Delhi Daredevils,,,Kings XI Punjab
+73,2008,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,13,0,MS Dhoni,BR Doctrove,RB Tiffin,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,
+74,2008,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,0,7,ST Jayasuriya,BF Bowden,AV Jayaprakash,Kolkata Knight Riders,,,Mumbai Indians
+75,2008,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Daredevils,10,0,GD McGrath,Aleem Dar,I Shivram,Royal Challengers Bangalore,,Delhi Daredevils,
+76,2008,Hyderabad,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,SE Marsh,BR Doctrove,RB Tiffin,Deccan Chargers,Kings XI Punjab,,Kings XI Punjab
+77,2008,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,45,0,SA Asnodkar,RE Koertzen,GA Pratapkumar,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,
+78,2008,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,0,8,V Sehwag,BF Bowden,K Hariharan,Chennai Super Kings,,,Delhi Daredevils
+79,2008,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore,0,5,R Vinay Kumar,Asad Rauf,RE Koertzen,Deccan Chargers,,,Royal Challengers Bangalore
+80,2008,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kings XI Punjab,9,0,IK Pathan,DJ Harper,I Shivram,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,
+81,2008,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,29,0,SM Pollock,IL Howell,RE Koertzen,Delhi Daredevils,,Mumbai Indians,
+82,2008,Jaipur,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,0,8,Sohail Tanvir,Asad Rauf,AV Jayaprakash,Chennai Super Kings,,,Rajasthan Royals
+83,2008,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,S Sreesanth,SJ Davis,BR Doctrove,Royal Challengers Bangalore,Kings XI Punjab,,Kings XI Punjab
+84,2008,Chennai,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,7,AC Gilchrist,MR Benson,RB Tiffin,Chennai Super Kings,Deccan Chargers,,Deccan Chargers
+85,2008,Mumbai,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,7,A Nehra,DJ Harper,RE Koertzen,Rajasthan Royals,Mumbai Indians,,Mumbai Indians
+86,2008,Delhi,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,MS Dhoni,Aleem Dar,RB Tiffin,Delhi Daredevils,Chennai Super Kings,,Chennai Super Kings
+87,2008,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,5,0,SC Ganguly,Asad Rauf,IL Howell,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,
+88,2008,Jaipur,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,YK Pathan,MR Benson,AM Saheba,Deccan Chargers,Rajasthan Royals,,Rajasthan Royals
+89,2008,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,CRD Fernando,BF Bowden,AV Jayaprakash,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+90,2008,Chennai,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Chennai Super Kings,18,0,L Balaji,AV Jayaprakash,BG Jerling,Kings XI Punjab,,Chennai Super Kings,
+91,2008,Hyderabad,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,23,0,SC Ganguly,IL Howell,AM Saheba,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,
+92,2008,Jaipur,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,SR Watson,SJ Davis,RE Koertzen,Delhi Daredevils,Rajasthan Royals,,Rajasthan Royals
+93,2008,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,0,9,SE Marsh,BR Doctrove,I Shivram,Royal Challengers Bangalore,,,Kings XI Punjab
+94,2008,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,23,0,Shoaib Akhtar,Asad Rauf,IL Howell,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,
+95,2008,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,ST Jayasuriya,BR Doctrove,AM Saheba,Chennai Super Kings,Mumbai Indians,,Mumbai Indians
+96,2008,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,41,0,SE Marsh,SJ Davis,K Hariharan,Rajasthan Royals,,Kings XI Punjab,
+97,2008,Delhi,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Delhi Daredevils,12,0,A Mishra,BG Jerling,GA Pratapkumar,Deccan Chargers,,Delhi Daredevils,
+98,2008,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,SM Pollock,BR Doctrove,DJ Harper,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+99,2008,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,6,0,DPMD Jayawardene,AV Jayaprakash,RE Koertzen,Delhi Daredevils,,,Kings XI Punjab
+100,2008,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rajasthan Royals,65,0,GC Smith,BF Bowden,SL Shastri,Royal Challengers Bangalore,,Rajasthan Royals,
+101,2008,Hyderabad,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,25,0,DJ Bravo,BR Doctrove,DJ Harper,Deccan Chargers,,Mumbai Indians,
+102,2008,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,3,0,M Ntini,Asad Rauf,K Hariharan,Kolkata Knight Riders,,,Chennai Super Kings
+103,2008,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,5,SP Goswami,SJ Davis,GA Pratapkumar,Royal Challengers Bangalore,Delhi Daredevils,,Delhi Daredevils
+104,2008,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,YK Pathan,BG Jerling,RE Koertzen,Kolkata Knight Riders,Rajasthan Royals,,Rajasthan Royals
+105,2008,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,1,0,SE Marsh,BF Bowden,GA Pratapkumar,Mumbai Indians,,Kings XI Punjab,
+106,2008,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,14,0,A Kumble,DJ Harper,I Shivram,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,
+107,2008,Chandigarh,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,SE Marsh,Asad Rauf,SJ Davis,Deccan Chargers,Kings XI Punjab,,Kings XI Punjab
+108,2008,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,5,KD Karthik,BF Bowden,K Hariharan,Mumbai Indians,Delhi Daredevils,,Delhi Daredevils
+109,2008,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals,10,0,JA Morkel,DJ Harper,SL Shastri,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,
+110,2008,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,Royal Challengers Bangalore,3,0,P Kumar,BR Doctrove,SL Shastri,Deccan Chargers,,Royal Challengers Bangalore,
+111,2008,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,3,Umar Gul,SJ Davis,I Shivram,Kings XI Punjab,,,Kolkata Knight Riders
+112,2008,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,5,Sohail Tanvir,BF Bowden,K Hariharan,Mumbai Indians,Rajasthan Royals,,Rajasthan Royals
+113,2008,Hyderabad,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,Chennai Super Kings,0,7,SK Raina,BG Jerling,AM Saheba,Deccan Chargers,,,Chennai Super Kings
+114,2008,Mumbai,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,105,0,SR Watson,BF Bowden,RE Koertzen,Delhi Daredevils,,Rajasthan Royals,
+115,2008,Mumbai,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings,0,9,M Ntini,Asad Rauf,DJ Harper,Kings XI Punjab,,,Chennai Super Kings
+116,2008,Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,YK Pathan,BF Bowden,RE Koertzen,Chennai Super Kings,Rajasthan Royals,,Rajasthan Royals
+117,2009,Cape Town,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,19,0,SR Tendulkar,BR Doctrove,K Hariharan,Chennai Super Kings,,Mumbai Indians,
+118,2009,Cape Town,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,75,0,R Dravid,BR Doctrove,RB Tiffin,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,
+119,2009,Cape Town,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,10,DL Vettori,MR Benson,SD Ranade,Kings XI Punjab,Delhi Daredevils,,Delhi Daredevils
+120,2009,Cape Town,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Deccan Chargers,0,8,RP Singh,MR Benson,BR Doctrove,Kolkata Knight Riders,,,Deccan Chargers
+121,2009,Port Elizabeth,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,92,0,M Muralitharan,BG Jerling,SJA Taufel,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,
+122,2009,Durban,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,11,0,CH Gayle,DJ Harper,SD Ranade,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+123,2009,Cape Town,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Deccan Chargers,24,0,AC Gilchrist,M Erasmus,AM Saheba,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,
+124,2009,Durban,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,Delhi Daredevils,9,0,AB de Villiers,BR Doctrove,SJA Taufel,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,
+125,2009,Cape Town,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,Rajasthan Royals,0,0,YK Pathan,MR Benson,M Erasmus,Kolkata Knight Riders,,Rajasthan Royals,
+126,2009,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,0,7,RS Bopara,BR Doctrove,TH Wijewardene,Royal Challengers Bangalore,,,Kings XI Punjab
+127,2009,Durban,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,12,0,PP Ojha,HDPK Dharmasena,SJA Taufel,Mumbai Indians,Deccan Chargers,Deccan Chargers,
+128,2009,Port Elizabeth,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Delhi Daredevils,0,6,TM Dilshan,S Asnani,BG Jerling,Royal Challengers Bangalore,,,Delhi Daredevils
+129,2009,Cape Town,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Kings XI Punjab,27,0,KC Sangakkara,M Erasmus,K Hariharan,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,
+130,2009,Durban,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,HH Gibbs,IL Howell,TH Wijewardene,Chennai Super Kings,Deccan Chargers,,Deccan Chargers
+131,2009,Port Elizabeth,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,92,0,SR Tendulkar,BG Jerling,RB Tiffin,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,
+132,2009,Centurion,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,0,5,YK Pathan,GAV Baxter,RE Koertzen,Delhi Daredevils,,,Rajasthan Royals
+133,2009,Durban,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Royal Challengers Bangalore,0,5,MV Boucher,MR Benson,TH Wijewardene,Kolkata Knight Riders,,,Royal Challengers Bangalore
+134,2009,Durban,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Kings XI Punjab,3,0,KC Sangakkara,MR Benson,SL Shastri,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,
+135,2009,Centurion,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,DP Nannes,GAV Baxter,AM Saheba,Deccan Chargers,Delhi Daredevils,,Delhi Daredevils
+136,2009,Centurion,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,38,0,SK Raina,GAV Baxter,RE Koertzen,Rajasthan Royals,,Chennai Super Kings,
+137,2009,East London,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,9,0,JP Duminy,M Erasmus,SK Tarapore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,
+138,2009,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,8,0,Yuvraj Singh,HDPK Dharmasena,S Ravi,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,
+139,2009,Port Elizabeth,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,0,3,YK Pathan,S Asnani,BG Jerling,Deccan Chargers,,,Rajasthan Royals
+140,2009,Johannesburg,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,18,0,SB Jakati,DJ Harper,RE Koertzen,Delhi Daredevils,,Chennai Super Kings,
+141,2009,Port Elizabeth,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab,0,6,DPMD Jayawardene,S Asnani,MR Benson,Kolkata Knight Riders,,,Kings XI Punjab
+142,2009,Johannesburg,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,9,JH Kallis,RE Koertzen,TH Wijewardene,Mumbai Indians,,,Royal Challengers Bangalore
+143,2009,East London,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,78,0,MS Dhoni,BR Doctrove,M Erasmus,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,
+144,2009,Durban,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,78,0,GC Smith,SS Hazare,IL Howell,Kings XI Punjab,,Rajasthan Royals,
+145,2009,Durban,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,0,9,G Gambhir,GAV Baxter,IL Howell,Kolkata Knight Riders,,,Delhi Daredevils
+146,2009,Centurion,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,19,0,RG Sharma,MR Benson,HDPK Dharmasena,Mumbai Indians,Deccan Chargers,Deccan Chargers,
+147,2009,Centurion,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,A Singh,K Hariharan,DJ Harper,Royal Challengers Bangalore,Rajasthan Royals,,Rajasthan Royals
+148,2009,Centurion,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,12,0,ML Hayden,DJ Harper,TH Wijewardene,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,
+149,2009,East London,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,0,7,A Nehra,M Erasmus,SK Tarapore,Mumbai Indians,,,Delhi Daredevils
+150,2009,Kimberley,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,3,DPMD Jayawardene,GAV Baxter,AM Saheba,Deccan Chargers,Kings XI Punjab,,Kings XI Punjab
+151,2009,Kimberley,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,7,S Badrinath,GAV Baxter,HDPK Dharmasena,Rajasthan Royals,,,Chennai Super Kings
+152,2009,Port Elizabeth,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,16,0,JP Duminy,BR Doctrove,BG Jerling,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,
+153,2009,Johannesburg,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,A Mishra,SL Shastri,RB Tiffin,Kolkata Knight Riders,Delhi Daredevils,,Delhi Daredevils
+154,2009,Kimberley,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Deccan Chargers,53,0,DR Smith,GAV Baxter,HDPK Dharmasena,Rajasthan Royals,Deccan Chargers,Deccan Chargers,
+155,2009,Centurion,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,LRPL Taylor,M Erasmus,SS Hazare,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+156,2009,Centurion,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,0,8,Harbhajan Singh,SS Hazare,RE Koertzen,Kings XI Punjab,,,Mumbai Indians
+157,2009,Durban,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Delhi Daredevils,12,0,R Bhatia,DJ Harper,SL Shastri,Deccan Chargers,,Delhi Daredevils,
+158,2009,Durban,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore,0,2,LRPL Taylor,BR Doctrove,DJ Harper,Chennai Super Kings,,,Royal Challengers Bangalore
+159,2009,Durban,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals,2,0,SK Warne,BR Doctrove,DJ Harper,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,
+160,2009,Bloemfontein,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,B Lee,HDPK Dharmasena,IL Howell,Delhi Daredevils,Kings XI Punjab,,Kings XI Punjab
+161,2009,Port Elizabeth,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,0,7,ML Hayden,SK Tarapore,SJA Taufel,Mumbai Indians,,,Chennai Super Kings
+162,2009,Johannesburg,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,RG Sharma,RE Koertzen,S Ravi,Kolkata Knight Riders,Deccan Chargers,,Deccan Chargers
+163,2009,Johannesburg,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Kings XI Punjab,1,0,Yuvraj Singh,S Ravi,RB Tiffin,Deccan Chargers,,Kings XI Punjab,
+164,2009,Bloemfontein,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,14,0,AB de Villiers,SS Hazare,IL Howell,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,
+165,2009,Centurion,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,0,7,BJ Hodge,SJA Taufel,RB Tiffin,Chennai Super Kings,,,Kolkata Knight Riders
+166,2009,Johannesburg,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Royal Challengers Bangalore,0,7,JH Kallis,IL Howell,RB Tiffin,Delhi Daredevils,,,Royal Challengers Bangalore
+167,2009,Durban,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,LR Shukla,BG Jerling,SJA Taufel,Rajasthan Royals,Kolkata Knight Riders,,Kolkata Knight Riders
+168,2009,Durban,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,24,0,M Muralitharan,BG Jerling,SJA Taufel,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,
+169,2009,Centurion,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,4,V Sehwag,IL Howell,S Ravi,Mumbai Indians,Delhi Daredevils,,Delhi Daredevils
+170,2009,Centurion,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,12,0,MK Pandey,IL Howell,S Ravi,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,
+171,2009,Centurion,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,AC Gilchrist,BR Doctrove,DJ Harper,Delhi Daredevils,Deccan Chargers,,Deccan Chargers
+172,2009,Johannesburg,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,MK Pandey,RE Koertzen,SJA Taufel,Chennai Super Kings,Royal Challengers Bangalore,,Royal Challengers Bangalore
+173,2009,Johannesburg,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,6,0,A Kumble,RE Koertzen,SJA Taufel,Royal Challengers Bangalore,,Deccan Chargers,
+174,2010,Mumbai,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Kolkata Knight Riders,11,0,AD Mathews,RE Koertzen,RB Tiffin,Deccan Chargers,,Kolkata Knight Riders,
+175,2010,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians,4,0,YK Pathan,RE Koertzen,RB Tiffin,Rajasthan Royals,Mumbai Indians,Mumbai Indians,
+176,2010,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,5,G Gambhir,BR Doctrove,S Ravi,Kings XI Punjab,Delhi Daredevils,,Delhi Daredevils
+177,2010,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,MK Tiwary,HDPK Dharmasena,AM Saheba,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+178,2010,Chennai,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,Deccan Chargers,31,0,WPUJC Vaas,K Hariharan,DJ Harper,Chennai Super Kings,Deccan Chargers,Deccan Chargers,
+179,2010,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,V Sehwag,BG Jerling,RE Koertzen,Rajasthan Royals,Delhi Daredevils,,Delhi Daredevils
+180,2010,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,0,8,JH Kallis,S Das,DJ Harper,Kings XI Punjab,,,Royal Challengers Bangalore
+181,2010,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,55,0,MS Dhoni,HDPK Dharmasena,AM Saheba,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,
+182,2010,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,98,0,SR Tendulkar,BR Doctrove,SK Tarapore,Delhi Daredevils,,Mumbai Indians,
+183,2010,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,10,JH Kallis,K Hariharan,DJ Harper,Rajasthan Royals,Royal Challengers Bangalore,,Royal Challengers Bangalore
+184,2010,Delhi,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,Chennai Super Kings,0,5,ML Hayden,BR Doctrove,SK Tarapore,Delhi Daredevils,,,Chennai Super Kings
+185,2010,Cuttack,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Deccan Chargers,6,0,A Symonds,BF Bowden,M Erasmus,Kings XI Punjab,,Deccan Chargers,
+186,2010,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,34,0,AA Jhunjhunwala,RE Koertzen,RB Tiffin,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,
+187,2010,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,7,JH Kallis,HDPK Dharmasena,SS Hazare,Mumbai Indians,,,Royal Challengers Bangalore
+188,2010,Cuttack,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,10,0,A Symonds,BF Bowden,M Erasmus,Delhi Daredevils,Deccan Chargers,Deccan Chargers,
+189,2010,Chennai,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,tie,Kings XI Punjab,0,0,J Theron,K Hariharan,DJ Harper,Chennai Super Kings,,Kings XI Punjab,
+190,2010,Mumbai,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,0,7,SR Tendulkar,SS Hazare,SJA Taufel,Kolkata Knight Riders,,,Mumbai Indians
+191,2010,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,36,0,RV Uthappa,RE Koertzen,RB Tiffin,Chennai Super Kings,,Royal Challengers Bangalore,
+192,2010,Chandigarh,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,31,0,AC Voges,BR Doctrove,SK Tarapore,Kings XI Punjab,,Rajasthan Royals,
+193,2010,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,SR Tendulkar,BF Bowden,AM Saheba,Chennai Super Kings,Mumbai Indians,,Mumbai Indians
+194,2010,Ahmedabad,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,0,8,YK Pathan,HDPK Dharmasena,SJA Taufel,Deccan Chargers,,,Rajasthan Royals
+195,2010,Chandigarh,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,39,0,MK Tiwary,BR Doctrove,S Ravi,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,
+196,2010,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Daredevils,17,0,KM Jadhav,BG Jerling,RE Koertzen,Royal Challengers Bangalore,,Delhi Daredevils,
+197,2010,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals,17,0,NV Ojha,SS Hazare,SJA Taufel,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,
+198,2010,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,41,0,Harbhajan Singh,S Das,K Hariharan,Deccan Chargers,,Mumbai Indians,
+199,2010,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Delhi Daredevils,40,0,DA Warner,SS Hazare,SJA Taufel,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,
+200,2010,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,SL Malinga,BR Doctrove,SK Tarapore,Kings XI Punjab,Mumbai Indians,,Mumbai Indians
+201,2010,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings,0,5,M Vijay,BG Jerling,RE Koertzen,Royal Challengers Bangalore,,,Chennai Super Kings
+202,2010,Delhi,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,67,0,KD Karthik,HDPK Dharmasena,SJA Taufel,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,
+203,2010,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,24,0,SC Ganguly,K Hariharan,DJ Harper,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,
+204,2010,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,0,6,KP Pietersen,BF Bowden,M Erasmus,Kings XI Punjab,,,Royal Challengers Bangalore
+205,2010,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings,23,0,M Vijay,RE Koertzen,RB Tiffin,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,
+206,2010,Mumbai,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,normal,Mumbai Indians,63,0,AT Rayudu,BR Doctrove,S Ravi,Deccan Chargers,Mumbai Indians,Mumbai Indians,
+207,2010,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab,0,8,DPMD Jayawardene,S Asnani,DJ Harper,Kolkata Knight Riders,,,Kings XI Punjab
+208,2010,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Delhi Daredevils,37,0,PD Collingwood,BF Bowden,M Erasmus,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,
+209,2010,Nagpur,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,Rajasthan Royals,2,0,SK Warne,HDPK Dharmasena,SJA Taufel,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,
+210,2010,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,24,0,SK Raina,S Asnani,DJ Harper,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,
+211,2010,Jaipur,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals,0,9,MJ Lumb,S Ravi,SK Tarapore,Kings XI Punjab,,,Rajasthan Royals
+212,2010,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,14,0,SC Ganguly,BG Jerling,RE Koertzen,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,
+213,2010,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,7,TL Suman,S Asnani,DJ Harper,Royal Challengers Bangalore,Deccan Chargers,,Deccan Chargers
+214,2010,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,0,6,KC Sangakkara,M Erasmus,AM Saheba,Mumbai Indians,,,Kings XI Punjab
+215,2010,Nagpur,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Deccan Chargers,0,6,RJ Harris,HDPK Dharmasena,SJA Taufel,Chennai Super Kings,,,Deccan Chargers
+216,2010,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,R Vinay Kumar,K Hariharan,DJ Harper,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+217,2010,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,0,7,PP Chawla,BF Bowden,AM Saheba,Delhi Daredevils,,,Kings XI Punjab
+218,2010,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,37,0,SR Tendulkar,BR Doctrove,SK Tarapore,Rajasthan Royals,,Mumbai Indians,
+219,2010,Nagpur,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,13,0,Harmeet Singh,RE Koertzen,RB Tiffin,Royal Challengers Bangalore,,Deccan Chargers,
+220,2010,Mumbai,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Mumbai Indians,39,0,KA Pollard,S Asnani,DJ Harper,Delhi Daredevils,Mumbai Indians,Mumbai Indians,
+221,2010,Chennai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,0,9,R Ashwin,SS Hazare,SJA Taufel,Kolkata Knight Riders,,,Chennai Super Kings
+222,2010,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Royal Challengers Bangalore,0,5,KP Pietersen,BR Doctrove,S Ravi,Rajasthan Royals,,,Royal Challengers Bangalore
+223,2010,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,0,6,G Gambhir,HDPK Dharmasena,SS Hazare,Chennai Super Kings,,,Delhi Daredevils
+224,2010,Dharamsala,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,5,RG Sharma,M Erasmus,AM Saheba,Kings XI Punjab,Deccan Chargers,,Deccan Chargers
+225,2010,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,57,0,R McLaren,HDPK Dharmasena,SJA Taufel,Royal Challengers Bangalore,,Mumbai Indians,
+226,2010,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,0,8,JD Unadkat,BG Jerling,RB Tiffin,Rajasthan Royals,,,Kolkata Knight Riders
+227,2010,Dharamsala,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,MS Dhoni,BF Bowden,AM Saheba,Kings XI Punjab,Chennai Super Kings,,Chennai Super Kings
+228,2010,Delhi,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,11,0,A Symonds,BR Doctrove,SK Tarapore,Delhi Daredevils,Deccan Chargers,Deccan Chargers,
+229,2010,Kolkata,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Kolkata Knight Riders,0,9,M Kartik,BG Jerling,RE Koertzen,Mumbai Indians,,,Kolkata Knight Riders
+230,2010,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,35,0,KA Pollard,BR Doctrove,RB Tiffin,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,
+231,2010,Mumbai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,38,0,DE Bollinger,BR Doctrove,RB Tiffin,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,
+232,2010,Mumbai,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore,0,9,A Kumble,RE Koertzen,SJA Taufel,Deccan Chargers,,,Royal Challengers Bangalore
+233,2010,Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,22,0,SK Raina,RE Koertzen,SJA Taufel,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,
+234,2011,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,2,0,S Anirudha,BR Doctrove,PR Reiffel,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,
+235,2011,Hyderabad,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,SK Trivedi,RE Koertzen,SK Tarapore,Deccan Chargers,Rajasthan Royals,,Rajasthan Royals
+236,2011,Kochi,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore,0,6,AB de Villiers,HDPK Dharmasena,K Hariharan,Kochi Tuskers Kerala,,,Royal Challengers Bangalore
+237,2011,Delhi,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians,0,8,SL Malinga,AM Saheba,RB Tiffin,Delhi Daredevils,,,Mumbai Indians
+238,2011,Mumbai,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors,0,7,SB Wagh,BR Doctrove,PR Reiffel,Kings XI Punjab,,,Pune Warriors
+239,2011,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,9,0,JH Kallis,RE Koertzen,SK Tarapore,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,
+240,2011,Jaipur,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,0,6,SK Warne,Aleem Dar,RB Tiffin,Delhi Daredevils,,,Rajasthan Royals
+241,2011,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,SR Tendulkar,HDPK Dharmasena,AL Hill,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+242,2011,Chandigarh,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,PC Valthaty,Asad Rauf,SL Shastri,Chennai Super Kings,Kings XI Punjab,,Kings XI Punjab
+243,2011,Mumbai,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,bat,normal,Pune Warriors,0,4,MD Mishra,S Asnani,PR Reiffel,Kochi Tuskers Kerala,,,Pune Warriors
+244,2011,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,33,0,DW Steyn,RE Koertzen,S Ravi,Royal Challengers Bangalore,,Deccan Chargers,
+245,2011,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,G Gambhir,Aleem Dar,SS Hazare,Rajasthan Royals,Kolkata Knight Riders,,Kolkata Knight Riders
+246,2011,Mumbai,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,8,BB McCullum,BR Doctrove,PR Reiffel,Mumbai Indians,Kochi Tuskers Kerala,,Kochi Tuskers Kerala
+247,2011,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,21,0,MEK Hussey,HDPK Dharmasena,AL Hill,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,
+248,2011,Hyderabad,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,8,PC Valthaty,RE Koertzen,S Ravi,Deccan Chargers,Kings XI Punjab,,Kings XI Punjab
+249,2011,Mumbai,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,3,Yuvraj Singh,Asad Rauf,AM Saheba,Pune Warriors,Delhi Daredevils,,Delhi Daredevils
+250,2011,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,L Balaji,Aleem Dar,RB Tiffin,Rajasthan Royals,Kolkata Knight Riders,,Kolkata Knight Riders
+251,2011,Kochi,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,7,BB McCullum,K Hariharan,AL Hill,Chennai Super Kings,Kochi Tuskers Kerala,,Kochi Tuskers Kerala
+252,2011,Delhi,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,16,0,S Sohal,PR Reiffel,RJ Tucker,Delhi Daredevils,Deccan Chargers,Deccan Chargers,
+253,2011,Mumbai,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians,0,7,MM Patel,Asad Rauf,AM Saheba,Pune Warriors,,,Mumbai Indians
+254,2011,Kolkata,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala,6,0,DPMD Jayawardene,Aleem Dar,RB Tiffin,Kolkata Knight Riders,,Kochi Tuskers Kerala,
+255,2011,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,48,0,SE Marsh,S Asnani,PR Reiffel,Rajasthan Royals,,Kings XI Punjab,
+256,2011,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,8,0,Harbhajan Singh,Asad Rauf,AM Saheba,Chennai Super Kings,,Mumbai Indians,
+257,2011,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,CH Gayle,SS Hazare,RB Tiffin,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+258,2011,Delhi,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Delhi Daredevils,29,0,DA Warner,S Asnani,RE Koertzen,Kings XI Punjab,,Delhi Daredevils,
+259,2011,Hyderabad,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,37,0,SL Malinga,HDPK Dharmasena,AL Hill,Deccan Chargers,,Mumbai Indians,
+260,2011,Jaipur,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,SK Warne,BR Doctrove,SK Tarapore,Kochi Tuskers Kerala,Rajasthan Royals,,Rajasthan Royals
+261,2011,Chennai,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings,25,0,MEK Hussey,Aleem Dar,RB Tiffin,Pune Warriors,,Chennai Super Kings,
+262,2011,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,3,V Kohli,S Asnani,RJ Tucker,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+263,2011,Mumbai,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Chennai Super Kings,0,8,DE Bollinger,Asad Rauf,SL Shastri,Pune Warriors,,,Chennai Super Kings
+264,2011,Kochi,Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Deccan Chargers,55,0,I Sharma,HDPK Dharmasena,AL Hill,Kochi Tuskers Kerala,,Deccan Chargers,
+265,2011,Delhi,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Kolkata Knight Riders,17,0,MK Tiwary,PR Reiffel,RJ Tucker,Delhi Daredevils,,Kolkata Knight Riders,
+266,2011,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,J Botha,Asad Rauf,SK Tarapore,Mumbai Indians,Rajasthan Royals,,Rajasthan Royals
+267,2011,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,26,0,V Kohli,Aleem Dar,SS Hazare,Pune Warriors,,Royal Challengers Bangalore,
+268,2011,Kochi,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,bat,normal,Delhi Daredevils,38,0,V Sehwag,HDPK Dharmasena,AL Hill,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,
+269,2011,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,Iqbal Abdulla,AM Saheba,SL Shastri,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+270,2011,Jaipur,Pune Warriors,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,LRPL Taylor,SK Tarapore,SJA Taufel,Pune Warriors,Rajasthan Royals,,Rajasthan Royals
+271,2011,Chennai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,19,0,JA Morkel,Aleem Dar,RB Tiffin,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,
+272,2011,Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,23,0,KA Pollard,HDPK Dharmasena,PR Reiffel,Kings XI Punjab,,Mumbai Indians,
+273,2011,Delhi,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,7,P Parameswaran,Asad Rauf,SL Shastri,Delhi Daredevils,Kochi Tuskers Kerala,,Kochi Tuskers Kerala
+274,2011,Hyderabad,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Kolkata Knight Riders,20,0,YK Pathan,S Asnani,RJ Tucker,Deccan Chargers,,Kolkata Knight Riders,
+275,2011,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,8,MEK Hussey,SS Hazare,RB Tiffin,Rajasthan Royals,,,Chennai Super Kings
+276,2011,Mumbai,Mumbai Indians,Pune Warriors,Pune Warriors,field,normal,Mumbai Indians,21,0,R Sharma,HDPK Dharmasena,SJA Taufel,Pune Warriors,,Mumbai Indians,
+277,2011,Kochi,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala,17,0,BJ Hodge,S Ravi,RJ Tucker,Kolkata Knight Riders,,Kochi Tuskers Kerala,
+278,2011,Hyderabad,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,4,V Sehwag,Asad Rauf,AM Saheba,Deccan Chargers,Delhi Daredevils,,Delhi Daredevils
+279,2011,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,85,0,CH Gayle,Aleem Dar,RB Tiffin,Kings XI Punjab,,Royal Challengers Bangalore,
+280,2011,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,10,0,Iqbal Abdulla,Asad Rauf,PR Reiffel,Chennai Super Kings,,,Kolkata Knight Riders
+281,2011,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,32,0,AT Rayudu,K Hariharan,SJA Taufel,Delhi Daredevils,,Mumbai Indians,
+282,2011,Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore,0,9,CH Gayle,Aleem Dar,SS Hazare,Kochi Tuskers Kerala,,,Royal Challengers Bangalore
+283,2011,Chandigarh,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors,0,5,R Sharma,SK Tarapore,RJ Tucker,Kings XI Punjab,,,Pune Warriors
+284,2011,Jaipur,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,63,0,M Vijay,K Hariharan,SJA Taufel,Rajasthan Royals,,Chennai Super Kings,
+285,2011,Hyderabad,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Pune Warriors,0,6,MR Marsh,Asad Rauf,AM Saheba,Deccan Chargers,,,Pune Warriors
+286,2011,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,76,0,BA Bhatt,SK Tarapore,RJ Tucker,Mumbai Indians,,Kings XI Punjab,
+287,2011,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,S Aravind,HDPK Dharmasena,K Hariharan,Rajasthan Royals,Royal Challengers Bangalore,,Royal Challengers Bangalore
+288,2011,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,18,0,MS Dhoni,AM Saheba,SL Shastri,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,
+289,2011,Indore,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,KD Karthik,S Asnani,RJ Tucker,Kochi Tuskers Kerala,Kings XI Punjab,,Kings XI Punjab
+290,2011,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,CH Gayle,RE Koertzen,RB Tiffin,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+291,2011,Mumbai,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,10,0,A Mishra,S Ravi,SK Tarapore,Mumbai Indians,Deccan Chargers,Deccan Chargers,
+292,2011,Dharamsala,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,29,0,PP Chawla,Asad Rauf,SL Shastri,Delhi Daredevils,,Kings XI Punjab,
+293,2011,Indore,Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,8,BJ Hodge,PR Reiffel,RJ Tucker,Rajasthan Royals,Kochi Tuskers Kerala,,Kochi Tuskers Kerala
+294,2011,Mumbai,Pune Warriors,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,A Mishra,S Ravi,SK Tarapore,Pune Warriors,Deccan Chargers,,Deccan Chargers
+295,2011,Dharamsala,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Kings XI Punjab,111,0,AC Gilchrist,Asad Rauf,AM Saheba,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,
+296,2011,Chennai,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,normal,Chennai Super Kings,11,0,WP Saha,HDPK Dharmasena,RE Koertzen,Kochi Tuskers Kerala,Chennai Super Kings,Chennai Super Kings,
+297,2011,Mumbai,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,YK Pathan,S Ravi,SJA Taufel,Pune Warriors,Kolkata Knight Riders,,Kolkata Knight Riders
+298,2011,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,0,10,SR Watson,RE Koertzen,PR Reiffel,Mumbai Indians,,,Rajasthan Royals
+299,2011,Dharamsala,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Deccan Chargers,82,0,S Dhawan,Asad Rauf,AM Saheba,Kings XI Punjab,,Deccan Chargers,
+300,2011,Delhi,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,no result,Over,0,0,Over,SS Hazare,RJ Tucker,Delhi Daredevils,,,Over
+301,2011,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,CH Gayle,K Hariharan,RE Koertzen,Chennai Super Kings,Royal Challengers Bangalore,,Royal Challengers Bangalore
+302,2011,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,JEC Franklin,SK Tarapore,SJA Taufel,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+303,2011,Mumbai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,SK Raina,Asad Rauf,SJA Taufel,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+304,2011,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,MM Patel,Asad Rauf,SJA Taufel,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+305,2011,Chennai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,43,0,CH Gayle,Asad Rauf,SJA Taufel,Mumbai Indians,,Royal Challengers Bangalore,
+306,2011,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,58,0,M Vijay,Asad Rauf,SJA Taufel,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,
+307,2012,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,RE Levi,JD Cloete,SJA Taufel,Chennai Super Kings,Mumbai Indians,,Mumbai Indians
+308,2012,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,IK Pathan,S Asnani,HDPK Dharmasena,Kolkata Knight Riders,Delhi Daredevils,,Delhi Daredevils
+309,2012,Mumbai,Pune Warriors,Mumbai Indians,Mumbai Indians,field,normal,Pune Warriors,28,0,SPD Smith,AK Chaudhary,SJA Taufel,Mumbai Indians,,Pune Warriors,
+310,2012,Jaipur,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,31,0,AM Rahane,BF Bowden,SK Tarapore,Kings XI Punjab,,Rajasthan Royals,
+311,2012,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,20,0,AB de Villiers,S Asnani,S Ravi,Delhi Daredevils,,Royal Challengers Bangalore,
+312,2012,Visakhapatnam,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Chennai Super Kings,74,0,RA Jadeja,JD Cloete,HDPK Dharmasena,Deccan Chargers,,Chennai Super Kings,
+313,2012,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,22,0,BJ Hodge,BF Bowden,VA Kulkarni,Kolkata Knight Riders,,Rajasthan Royals,
+314,2012,Pune,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Pune Warriors,22,0,MN Samuels,S Das,SJA Taufel,Kings XI Punjab,Pune Warriors,Pune Warriors,
+315,2012,Visakhapatnam,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Mumbai Indians,0,5,RG Sharma,AK Chaudhary,JD Cloete,Deccan Chargers,,,Mumbai Indians
+316,2012,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,42,0,L Balaji,S Ravi,RJ Tucker,Royal Challengers Bangalore,,Kolkata Knight Riders,
+317,2012,Delhi,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,M Morkel,Asad Rauf,SK Tarapore,Chennai Super Kings,Delhi Daredevils,,Delhi Daredevils
+318,2012,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,27,0,KA Pollard,Aleem Dar,BNJ Oxenford,Rajasthan Royals,,Mumbai Indians,
+319,2012,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings,0,5,F du Plessis,HDPK Dharmasena,RJ Tucker,Royal Challengers Bangalore,,,Chennai Super Kings
+320,2012,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,AD Mascarenhas,VA Kulkarni,SK Tarapore,Pune Warriors,Kings XI Punjab,,Kings XI Punjab
+321,2012,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,0,5,Shakib Al Hasan,Asad Rauf,S Asnani,Rajasthan Royals,,,Kolkata Knight Riders
+322,2012,Delhi,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,0,5,KP Pietersen,BF Bowden,SK Tarapore,Deccan Chargers,,,Delhi Daredevils
+323,2012,Pune,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Pune Warriors,0,7,JD Ryder,Aleem Dar,BNJ Oxenford,Chennai Super Kings,,,Pune Warriors
+324,2012,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,2,0,SP Narine,Asad Rauf,S Asnani,Kolkata Knight Riders,,Kings XI Punjab,
+325,2012,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Rajasthan Royals,59,0,AM Rahane,JD Cloete,RJ Tucker,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,
+326,2012,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,S Nadeem,BF Bowden,SK Tarapore,Mumbai Indians,Delhi Daredevils,,Delhi Daredevils
+327,2012,Jaipur,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,0,5,BJ Hodge,Aleem Dar,BNJ Oxenford,Deccan Chargers,,,Rajasthan Royals
+328,2012,Bangalore,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,Royal Challengers Bangalore,0,6,CH Gayle,S Asnani,S Das,Pune Warriors,,,Royal Challengers Bangalore
+329,2012,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,8,G Gambhir,JD Cloete,RJ Tucker,Kings XI Punjab,,,Kolkata Knight Riders
+330,2012,Hyderabad,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,0,9,DA Warner,JD Cloete,SJA Taufel,Deccan Chargers,,,Delhi Daredevils
+331,2012,Chennai,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings,13,0,KMDN Kulasekara,Asad Rauf,S Das,Pune Warriors,,Chennai Super Kings,
+332,2012,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,5,CH Gayle,S Ravi,RJ Tucker,Kings XI Punjab,Royal Challengers Bangalore,,Royal Challengers Bangalore
+333,2012,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,7,F du Plessis,Aleem Dar,BNJ Oxenford,Rajasthan Royals,,,Chennai Super Kings
+334,2012,Delhi,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,Pune Warriors,20,0,SC Ganguly,Asad Rauf,S Das,Delhi Daredevils,,Pune Warriors,
+335,2012,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,0,6,SE Marsh,S Ravi,RJ Tucker,Mumbai Indians,,,Kings XI Punjab
+336,2012,Cuttack,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,B Lee,BF Bowden,SK Tarapore,Deccan Chargers,Kolkata Knight Riders,,Kolkata Knight Riders
+337,2012,Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Royal Challengers Bangalore,46,0,AB de Villiers,Asad Rauf,S Asnani,Rajasthan Royals,,Royal Challengers Bangalore,
+338,2012,Pune,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,Delhi Daredevils,0,8,V Sehwag,S Ravi,RJ Tucker,Pune Warriors,,,Delhi Daredevils
+339,2012,Chandigarh,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,0,4,AT Rayudu,Aleem Dar,BNJ Oxenford,Kings XI Punjab,,,Mumbai Indians
+340,2012,Pune,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Deccan Chargers,18,0,CL White,S Ravi,RJ Tucker,Pune Warriors,Deccan Chargers,Deccan Chargers,
+341,2012,Delhi,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,37,0,V Sehwag,Aleem Dar,BNJ Oxenford,Mumbai Indians,,Delhi Daredevils,
+342,2012,Chennai,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Kings XI Punjab,7,0,Mandeep Singh,BF Bowden,SK Tarapore,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,
+343,2012,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,47,0,G Gambhir,Asad Rauf,BR Doctrove,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,
+344,2012,Delhi,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,1,0,V Sehwag,S Ravi,RJ Tucker,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,
+345,2012,Mumbai,Deccan Chargers,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,DW Steyn,AK Chaudhary,BNJ Oxenford,Deccan Chargers,Mumbai Indians,,Mumbai Indians
+346,2012,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,0,5,G Gambhir,BF Bowden,C Shamshuddin,Chennai Super Kings,,,Kolkata Knight Riders
+347,2012,Cuttack,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Deccan Chargers,13,0,KC Sangakkara,Aleem Dar,AK Chaudhary,Pune Warriors,Deccan Chargers,Deccan Chargers,
+348,2012,Jaipur,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,0,6,P Negi,JD Cloete,SJA Taufel,Rajasthan Royals,,,Delhi Daredevils
+349,2012,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,4,Azhar Mahmood,BF Bowden,C Shamshuddin,Royal Challengers Bangalore,Kings XI Punjab,,Kings XI Punjab
+350,2012,Pune,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians,1,0,SL Malinga,Asad Rauf,S Asnani,Pune Warriors,Mumbai Indians,Mumbai Indians,
+351,2012,Chennai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,10,0,SK Raina,HDPK Dharmasena,BNJ Oxenford,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,
+352,2012,Kolkata,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,7,0,SP Narine,BF Bowden,SK Tarapore,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,
+353,2012,Chandigarh,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals,43,0,SR Watson,JD Cloete,SJA Taufel,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,
+354,2012,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,2,DR Smith,Asad Rauf,S Asnani,Chennai Super Kings,Mumbai Indians,,Mumbai Indians
+355,2012,Bangalore,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,5,AB de Villiers,HDPK Dharmasena,BNJ Oxenford,Deccan Chargers,Royal Challengers Bangalore,,Royal Challengers Bangalore
+356,2012,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,6,JH Kallis,JD Cloete,S Ravi,Delhi Daredevils,,,Kolkata Knight Riders
+357,2012,Pune,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals,0,7,SR Watson,Asad Rauf,BR Doctrove,Pune Warriors,,,Rajasthan Royals
+358,2012,Hyderabad,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Kings XI Punjab,25,0,Mandeep Singh,HDPK Dharmasena,BNJ Oxenford,Deccan Chargers,,Kings XI Punjab,
+359,2012,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,CH Gayle,BF Bowden,VA Kulkarni,Mumbai Indians,Royal Challengers Bangalore,,Royal Challengers Bangalore
+360,2012,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,BW Hilfenhaus,BNJ Oxenford,C Shamshuddin,Rajasthan Royals,Chennai Super Kings,,Chennai Super Kings
+361,2012,Pune,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,35,0,CH Gayle,BF Bowden,SK Tarapore,Pune Warriors,,Royal Challengers Bangalore,
+362,2012,Kolkata,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,27,0,RG Sharma,S Ravi,SJA Taufel,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,
+363,2012,Chennai,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,9,BW Hilfenhaus,S Das,BR Doctrove,Delhi Daredevils,Chennai Super Kings,,Chennai Super Kings
+364,2012,Jaipur,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Rajasthan Royals,45,0,A Chandila,BF Bowden,SK Tarapore,Pune Warriors,Rajasthan Royals,Rajasthan Royals,
+365,2012,Chandigarh,Deccan Chargers,Kings XI Punjab,Deccan Chargers,bat,normal,Kings XI Punjab,0,4,DJ Hussey,HDPK Dharmasena,BNJ Oxenford,Deccan Chargers,,,Kings XI Punjab
+366,2012,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,AT Rayudu,S Das,BR Doctrove,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+367,2012,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,MEK Hussey,JD Cloete,SJA Taufel,Kolkata Knight Riders,Chennai Super Kings,,Chennai Super Kings
+368,2012,Delhi,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,Delhi Daredevils,0,5,UT Yadav,HDPK Dharmasena,BNJ Oxenford,Kings XI Punjab,,,Delhi Daredevils
+369,2012,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Kolkata Knight Riders,32,0,SP Narine,S Das,BR Doctrove,Mumbai Indians,,Kolkata Knight Riders,
+370,2012,Dharamsala,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,AC Gilchrist,VA Kulkarni,SK Tarapore,Chennai Super Kings,Kings XI Punjab,,Kings XI Punjab
+371,2012,Delhi,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,21,0,CH Gayle,HDPK Dharmasena,C Shamshuddin,Delhi Daredevils,,Royal Challengers Bangalore,
+372,2012,Hyderabad,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,Deccan Chargers,0,5,DW Steyn,S Ravi,SJA Taufel,Rajasthan Royals,,,Deccan Chargers
+373,2012,Dharamsala,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,UT Yadav,BF Bowden,VA Kulkarni,Kings XI Punjab,Delhi Daredevils,,Delhi Daredevils
+374,2012,Pune,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,34,0,Shakib Al Hasan,S Asnani,BR Doctrove,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,
+375,2012,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,9,0,DW Steyn,S Ravi,SJA Taufel,Royal Challengers Bangalore,,Deccan Chargers,
+376,2012,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians,0,10,DR Smith,HDPK Dharmasena,C Shamshuddin,Rajasthan Royals,,,Mumbai Indians
+377,2012,Pune,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,18,0,YK Pathan,BR Doctrove,SJA Taufel,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,
+378,2012,Bangalore,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings,38,0,MS Dhoni,BF Bowden,HDPK Dharmasena,Mumbai Indians,,Chennai Super Kings,
+379,2012,Chennai,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,86,0,M Vijay,BR Doctrove,SJA Taufel,Delhi Daredevils,,Chennai Super Kings,
+380,2012,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,0,5,MS Bisla,BF Bowden,SJA Taufel,Chennai Super Kings,,,Kolkata Knight Riders
+381,2013,Kolkata,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,SP Narine,S Ravi,SJA Taufel,Delhi Daredevils,Kolkata Knight Riders,,Kolkata Knight Riders
+382,2013,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,2,0,CH Gayle,VA Kulkarni,C Shamshuddin,Mumbai Indians,,Royal Challengers Bangalore,
+383,2013,Hyderabad,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad,22,0,A Mishra,S Ravi,SJA Taufel,Pune Warriors,,Sunrisers Hyderabad,
+384,2013,Delhi,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Rajasthan Royals,5,0,R Dravid,S Das,C Shamshuddin,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,
+385,2013,Chennai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,9,0,KA Pollard,M Erasmus,VA Kulkarni,Chennai Super Kings,Mumbai Indians,Mumbai Indians,
+386,2013,Pune,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Kings XI Punjab,0,8,M Vohra,S Asnani,SJA Taufel,Pune Warriors,,,Kings XI Punjab
+387,2013,Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,Sunrisers Hyderabad,0,0,GH Vihari,AK Chaudhary,S Ravi,Royal Challengers Bangalore,,,Sunrisers Hyderabad
+388,2013,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,19,0,SK Trivedi,Aleem Dar,S Das,Kolkata Knight Riders,,Rajasthan Royals,
+389,2013,Mumbai,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Mumbai Indians,44,0,KD Karthik,M Erasmus,VA Kulkarni,Delhi Daredevils,Mumbai Indians,Mumbai Indians,
+390,2013,Chandigarh,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,10,MEK Hussey,Aleem Dar,C Shamshuddin,Kings XI Punjab,Chennai Super Kings,,Chennai Super Kings
+391,2013,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,CH Gayle,Asad Rauf,AK Chaudhary,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+392,2013,Pune,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Pune Warriors,0,7,AJ Finch,M Erasmus,K Srinath,Rajasthan Royals,,,Pune Warriors
+393,2013,Delhi,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,3,A Mishra,Aleem Dar,Subroto Das,Delhi Daredevils,,,Sunrisers Hyderabad
+394,2013,Mumbai,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians,41,0,RG Sharma,S Ravi,SJA Taufel,Pune Warriors,Mumbai Indians,Mumbai Indians,
+395,2013,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,RA Jadeja,Asad Rauf,AK Chaudhary,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+396,2013,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,48,0,G Gambhir,M Erasmus,VA Kulkarni,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,
+397,2013,Jaipur,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,JP Faulkner,Aleem Dar,C Shamshuddin,Kings XI Punjab,Rajasthan Royals,,Rajasthan Royals
+398,2013,Chennai,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Pune Warriors,24,0,SPD Smith,Asad Rauf,AK Chaudhary,Chennai Super Kings,Pune Warriors,Pune Warriors,
+399,2013,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,4,0,MS Gony,CK Nandan,SJA Taufel,Kolkata Knight Riders,,Kings XI Punjab,
+400,2013,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,Royal Challengers Bangalore,0,0,V Kohli,M Erasmus,VA Kulkarni,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+401,2013,Pune,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad,11,0,A Mishra,Asad Rauf,AK Chaudhary,Pune Warriors,,Sunrisers Hyderabad,
+402,2013,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals,87,0,AM Rahane,Aleem Dar,C Shamshuddin,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,
+403,2013,Delhi,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,86,0,MEK Hussey,M Erasmus,VA Kulkarni,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,
+404,2013,Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad,0,5,GH Vihari,HDPK Dharmasena,CK Nandan,Kings XI Punjab,,,Sunrisers Hyderabad
+405,2013,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,0,4,RA Jadeja,Asad Rauf,AK Chaudhary,Kolkata Knight Riders,,,Chennai Super Kings
+406,2013,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,R Vinay Kumar,Aleem Dar,C Shamshuddin,Rajasthan Royals,Royal Challengers Bangalore,,Royal Challengers Bangalore
+407,2013,Delhi,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,0,9,V Sehwag,HDPK Dharmasena,S Ravi,Mumbai Indians,,,Delhi Daredevils
+408,2013,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,DA Miller,M Erasmus,K Srinath,Pune Warriors,Kings XI Punjab,,Kings XI Punjab
+409,2013,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,5,MEK Hussey,S Asnani,AK Chaudhary,Rajasthan Royals,,,Chennai Super Kings
+410,2013,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,130,0,CH Gayle,Aleem Dar,C Shamshuddin,Pune Warriors,,Royal Challengers Bangalore,
+411,2013,Dharamsala,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,7,0,DA Miller,HDPK Dharmasena,S Ravi,Delhi Daredevils,,Kings XI Punjab,
+412,2013,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,0,5,DR Smith,HDPK Dharmasena,S Ravi,Kolkata Knight Riders,,,Mumbai Indians
+413,2013,Chennai,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings,0,5,MS Dhoni,Aleem Dar,S Das,Sunrisers Hyderabad,,,Chennai Super Kings
+414,2013,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,6,JH Kallis,CK Nandan,S Ravi,Kings XI Punjab,,,Kolkata Knight Riders
+415,2013,Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals,0,8,JP Faulkner,VA Kulkarni,K Srinath,Sunrisers Hyderabad,,,Rajasthan Royals
+416,2013,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,58,0,DR Smith,Asad Rauf,S Asnani,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,
+417,2013,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings,14,0,MEK Hussey,Aleem Dar,SJA Taufel,Kolkata Knight Riders,,Chennai Super Kings,
+418,2013,Raipur,Delhi Daredevils,Pune Warriors,Pune Warriors,field,normal,Delhi Daredevils,15,0,DA Warner,CK Nandan,S Ravi,Pune Warriors,,Delhi Daredevils,
+419,2013,Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,4,SV Samson,M Erasmus,K Srinath,Royal Challengers Bangalore,Rajasthan Royals,,Rajasthan Royals
+420,2013,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians,4,0,RG Sharma,Asad Rauf,AK Chaudhary,Kings XI Punjab,Mumbai Indians,Mumbai Indians,
+421,2013,Pune,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Chennai Super Kings,37,0,MS Dhoni,S Das,SJA Taufel,Pune Warriors,Chennai Super Kings,Chennai Super Kings,
+422,2013,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad,0,7,I Sharma,Asad Rauf,S Asnani,Mumbai Indians,,,Sunrisers Hyderabad
+423,2013,Raipur,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,0,7,DA Warner,HDPK Dharmasena,CK Nandan,Kolkata Knight Riders,,,Delhi Daredevils
+424,2013,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,15,0,SK Raina,M Erasmus,VA Kulkarni,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,
+425,2013,Pune,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,17,0,AB de Villiers,Aleem Dar,C Shamshuddin,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,
+426,2013,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,0,8,YK Pathan,HDPK Dharmasena,CK Nandan,Rajasthan Royals,,,Kolkata Knight Riders
+427,2013,Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,6,DJG Sammy,Asad Rauf,S Asnani,Delhi Daredevils,,,Sunrisers Hyderabad
+428,2013,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,AC Gilchrist,HDPK Dharmasena,S Ravi,Royal Challengers Bangalore,Kings XI Punjab,,Kings XI Punjab
+429,2013,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,60,0,MG Johnson,HDPK Dharmasena,CK Nandan,Chennai Super Kings,Mumbai Indians,Mumbai Indians,
+430,2013,Jaipur,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals,0,5,AM Rahane,C Shamshuddin,RJ Tucker,Pune Warriors,,,Rajasthan Royals
+431,2013,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore,0,7,V Kohli,S Ravi,SJA Taufel,Sunrisers Hyderabad,,,Royal Challengers Bangalore
+432,2013,Jaipur,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,0,9,AM Rahane,Aleem Dar,RJ Tucker,Delhi Daredevils,,,Rajasthan Royals
+433,2013,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,65,0,SR Tendulkar,HDPK Dharmasena,S Ravi,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,
+434,2013,Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Chennai Super Kings,77,0,SK Raina,S Das,NJ Llong,Sunrisers Hyderabad,,Chennai Super Kings,
+435,2013,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,KK Cooper,HDPK Dharmasena,S Ravi,Kings XI Punjab,Rajasthan Royals,,Rajasthan Royals
+436,2013,Pune,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,46,0,G Gambhir,Asad Rauf,S Asnani,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,
+437,2013,Delhi,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,4,0,JD Unadkat,NJ Llong,K Srinath,Delhi Daredevils,,Royal Challengers Bangalore,
+438,2013,Pune,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians,0,5,MG Johnson,Asad Rauf,AK Chaudhary,Pune Warriors,,,Mumbai Indians
+439,2013,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,30,0,PA Patel,S Das,RJ Tucker,Kings XI Punjab,,Sunrisers Hyderabad,
+440,2013,Ranchi,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,JH Kallis,NJ Llong,K Srinath,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+441,2013,Jaipur,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,5,SR Watson,HDPK Dharmasena,CK Nandan,Chennai Super Kings,Rajasthan Royals,,Rajasthan Royals
+442,2013,Delhi,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,5,Harmeet Singh,VA Kulkarni,K Srinath,Delhi Daredevils,Kings XI Punjab,,Kings XI Punjab
+443,2013,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,0,7,KA Pollard,AK Chaudhary,SJA Taufel,Sunrisers Hyderabad,,,Mumbai Indians
+444,2013,Ranchi,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Pune Warriors,7,0,MK Pandey,NJ Llong,K Srinath,Kolkata Knight Riders,,Pune Warriors,
+445,2013,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,33,0,MS Dhoni,C Shamshuddin,RJ Tucker,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,
+446,2013,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,14,0,AP Tare,Asad Rauf,S Asnani,Rajasthan Royals,,Mumbai Indians,
+447,2013,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,DA Miller,VA Kulkarni,NJ Llong,Royal Challengers Bangalore,Kings XI Punjab,,Kings XI Punjab
+448,2013,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,23,0,A Mishra,Asad Rauf,AK Chaudhary,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,
+449,2013,Dharamsala,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,50,0,Azhar Mahmood,HDPK Dharmasena,CK Nandan,Mumbai Indians,,Kings XI Punjab,
+450,2013,Pune,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,Pune Warriors,38,0,LJ Wright,NJ Llong,SJA Taufel,Delhi Daredevils,Pune Warriors,Pune Warriors,
+451,2013,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,24,0,V Kohli,C Shamshuddin,RJ Tucker,Chennai Super Kings,,Royal Challengers Bangalore,
+452,2013,Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Sunrisers Hyderabad,0,5,PA Patel,Asad Rauf,S Asnani,Kolkata Knight Riders,,,Sunrisers Hyderabad
+453,2013,Delhi,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,48,0,MEK Hussey,NJ Llong,RJ Tucker,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,
+454,2013,Delhi,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals,0,4,BJ Hodge,S Ravi,RJ Tucker,Sunrisers Hyderabad,,,Rajasthan Royals
+455,2013,Kolkata,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians,0,4,Harbhajan Singh,C Shamshuddin,SJA Taufel,Rajasthan Royals,,,Mumbai Indians
+456,2013,Kolkata,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,23,0,KA Pollard,HDPK Dharmasena,SJA Taufel,Chennai Super Kings,Mumbai Indians,Mumbai Indians,
+457,2014,Abu Dhabi,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,41,0,JH Kallis,M Erasmus,RK Illingworth,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,
+458,2014,Sharjah,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,YS Chahal,Aleem Dar,S Ravi,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+459,2014,Abu Dhabi,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Kings XI Punjab,0,6,GJ Maxwell,RK Illingworth,C Shamshuddin,Chennai Super Kings,,,Kings XI Punjab
+460,2014,Abu Dhabi,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,4,AM Rahane,BF Bowden,RK Illingworth,Sunrisers Hyderabad,Rajasthan Royals,,Rajasthan Royals
+461,2014,Dubai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,PA Patel,Aleem Dar,AK Chaudhary,Mumbai Indians,Royal Challengers Bangalore,,Royal Challengers Bangalore
+462,2014,Dubai,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,0,4,JP Duminy,Aleem Dar,VA Kulkarni,Kolkata Knight Riders,,,Delhi Daredevils
+463,2014,Sharjah,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,GJ Maxwell,BF Bowden,M Erasmus,Rajasthan Royals,Kings XI Punjab,,Kings XI Punjab
+464,2014,Abu Dhabi,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,93,0,SK Raina,RK Illingworth,C Shamshuddin,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,
+465,2014,Sharjah,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kings XI Punjab,72,0,GJ Maxwell,M Erasmus,S Ravi,Sunrisers Hyderabad,,Kings XI Punjab,
+466,2014,Dubai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,7,0,RA Jadeja,HDPK Dharmasena,RK Illingworth,Rajasthan Royals,,Chennai Super Kings,
+467,2014,Sharjah,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,2,0,CA Lynn,Aleem Dar,VA Kulkarni,Royal Challengers Bangalore,,Kolkata Knight Riders,
+468,2014,Dubai,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,4,0,AJ Finch,M Erasmus,S Ravi,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,
+469,2014,Dubai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,0,7,MM Sharma,BF Bowden,M Erasmus,Mumbai Indians,,,Chennai Super Kings
+470,2014,Abu Dhabi,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,PV Tambe,HDPK Dharmasena,C Shamshuddin,Royal Challengers Bangalore,Rajasthan Royals,,Rajasthan Royals
+471,2014,Abu Dhabi,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,23,0,Sandeep Sharma,HDPK Dharmasena,RK Illingworth,Kolkata Knight Riders,,Kings XI Punjab,
+472,2014,Sharjah,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,0,6,M Vijay,Aleem Dar,VA Kulkarni,Mumbai Indians,,,Delhi Daredevils
+473,2014,Sharjah,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings,0,5,DR Smith,AK Chaudhary,VA Kulkarni,Sunrisers Hyderabad,,,Chennai Super Kings
+474,2014,Dubai,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,5,Sandeep Sharma,BF Bowden,S Ravi,Royal Challengers Bangalore,Kings XI Punjab,,Kings XI Punjab
+475,2014,Abu Dhabi,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,tie,Rajasthan Royals,0,0,JP Faulkner,Aleem Dar,AK Chaudhary,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,
+476,2014,Dubai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,15,0,B Kumar,HDPK Dharmasena,M Erasmus,Mumbai Indians,,Sunrisers Hyderabad,
+477,2014,Ranchi,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,34,0,RA Jadeja,AK Chaudhary,NJ Llong,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,
+478,2014,Mumbai,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,0,5,CJ Anderson,BNJ Oxenford,C Shamshuddin,Kings XI Punjab,,,Mumbai Indians
+479,2014,Delhi,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,KK Nair,SS Hazare,S Ravi,Delhi Daredevils,Rajasthan Royals,,Rajasthan Royals
+480,2014,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,AB de Villiers,HDPK Dharmasena,VA Kulkarni,Sunrisers Hyderabad,Royal Challengers Bangalore,,Royal Challengers Bangalore
+481,2014,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,10,0,PV Tambe,NJ Llong,CK Nandan,Kolkata Knight Riders,,Rajasthan Royals,
+482,2014,Delhi,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,DR Smith,RM Deshpande,BNJ Oxenford,Delhi Daredevils,Chennai Super Kings,,Chennai Super Kings
+483,2014,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,19,0,RG Sharma,S Ravi,K Srinath,Royal Challengers Bangalore,,Mumbai Indians,
+484,2014,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,8,G Gambhir,BNJ Oxenford,C Shamshuddin,Delhi Daredevils,,,Kolkata Knight Riders
+485,2014,Cuttack,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,44,0,GJ Maxwell,HDPK Dharmasena,PG Pathak,Chennai Super Kings,,Kings XI Punjab,
+486,2014,Ahmedabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad,32,0,B Kumar,AK Chaudhary,NJ Llong,Rajasthan Royals,,Sunrisers Hyderabad,
+487,2014,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,32,0,Sandeep Sharma,S Ravi,K Srinath,Royal Challengers Bangalore,,Kings XI Punjab,
+488,2014,Delhi,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,8,DW Steyn,RM Deshpande,BNJ Oxenford,Delhi Daredevils,Sunrisers Hyderabad,,Sunrisers Hyderabad
+489,2014,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,DR Smith,HDPK Dharmasena,VA Kulkarni,Mumbai Indians,Chennai Super Kings,,Chennai Super Kings
+490,2014,Cuttack,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,G Gambhir,NJ Llong,CK Nandan,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+491,2014,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Rajasthan Royals,0,5,JP Faulkner,S Ravi,RJ Tucker,Royal Challengers Bangalore,,,Rajasthan Royals
+492,2014,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,0,7,AT Rayudu,HDPK Dharmasena,VA Kulkarni,Sunrisers Hyderabad,,,Mumbai Indians
+493,2014,Ranchi,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,5,RA Jadeja,BNJ Oxenford,C Shamshuddin,Rajasthan Royals,,,Chennai Super Kings
+494,2014,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,16,0,Yuvraj Singh,K Srinath,RJ Tucker,Delhi Daredevils,,Royal Challengers Bangalore,
+495,2014,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,WP Saha,VA Kulkarni,PG Pathak,Sunrisers Hyderabad,Kings XI Punjab,,Kings XI Punjab
+496,2014,Cuttack,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,RV Uthappa,AK Chaudhary,NJ Llong,Mumbai Indians,Kolkata Knight Riders,,Kolkata Knight Riders
+497,2014,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,62,0,AM Rahane,S Ravi,RJ Tucker,Delhi Daredevils,,Rajasthan Royals,
+498,2014,Ranchi,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore,0,5,AB de Villiers,BNJ Oxenford,C Shamshuddin,Chennai Super Kings,,,Royal Challengers Bangalore
+499,2014,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,0,7,UT Yadav,NJ Llong,CK Nandan,Sunrisers Hyderabad,,,Kolkata Knight Riders
+500,2014,Ahmedabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians,25,0,MEK Hussey,S Ravi,RJ Tucker,Rajasthan Royals,Mumbai Indians,Mumbai Indians,
+501,2014,Delhi,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,4,AR Patel,HDPK Dharmasena,PG Pathak,Delhi Daredevils,Kings XI Punjab,,Kings XI Punjab
+502,2014,Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,Sunrisers Hyderabad,0,7,DA Warner,AK Chaudhary,NJ Llong,Royal Challengers Bangalore,,,Sunrisers Hyderabad
+503,2014,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,RV Uthappa,RM Deshpande,C Shamshuddin,Chennai Super Kings,Kolkata Knight Riders,,Kolkata Knight Riders
+504,2014,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,7,LMP Simmons,HDPK Dharmasena,VA Kulkarni,Kings XI Punjab,Mumbai Indians,,Mumbai Indians
+505,2014,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,30,0,RV Uthappa,AK Chaudhary,CK Nandan,Royal Challengers Bangalore,,Kolkata Knight Riders,
+506,2014,Ranchi,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,6,DA Warner,BNJ Oxenford,C Shamshuddin,Chennai Super Kings,Sunrisers Hyderabad,,Sunrisers Hyderabad
+507,2014,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,15,0,MEK Hussey,S Ravi,RJ Tucker,Delhi Daredevils,,Mumbai Indians,
+508,2014,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,16,0,SE Marsh,HDPK Dharmasena,PG Pathak,Rajasthan Royals,,Kings XI Punjab,
+509,2014,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,MS Dhoni,AK Chaudhary,NJ Llong,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+510,2014,Kolkata,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,YK Pathan,RM Deshpande,BNJ Oxenford,Sunrisers Hyderabad,Kolkata Knight Riders,,Kolkata Knight Riders
+511,2014,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,M Vohra,HDPK Dharmasena,VA Kulkarni,Delhi Daredevils,Kings XI Punjab,,Kings XI Punjab
+512,2014,Mumbai,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,CJ Anderson,K Srinath,RJ Tucker,Rajasthan Royals,Mumbai Indians,,Mumbai Indians
+513,2014,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,28,0,UT Yadav,NJ Llong,S Ravi,Kings XI Punjab,,Kolkata Knight Riders,
+514,2014,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,7,SK Raina,VA Kulkarni,BNJ Oxenford,Mumbai Indians,Chennai Super Kings,,Chennai Super Kings
+515,2014,Mumbai,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,24,0,V Sehwag,HDPK Dharmasena,RJ Tucker,Chennai Super Kings,,Kings XI Punjab,
+516,2014,Bangalore,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,3,MK Pandey,HDPK Dharmasena,BNJ Oxenford,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+517,2015,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,M Morkel,S Ravi,C Shamshuddin,Mumbai Indians,Kolkata Knight Riders,,Kolkata Knight Riders
+518,2015,Chennai,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,1,0,A Nehra,RK Illingworth,VA Kulkarni,Delhi Daredevils,,Chennai Super Kings,
+519,2015,Pune,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,26,0,JP Faulkner,SD Fry,CB Gaffaney,Kings XI Punjab,,Rajasthan Royals,
+520,2015,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings,45,0,BB McCullum,RK Illingworth,VA Kulkarni,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,
+521,2015,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,3,CH Gayle,S Ravi,C Shamshuddin,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+522,2015,Delhi,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,DJ Hooda,SD Fry,CB Gaffaney,Delhi Daredevils,Rajasthan Royals,,Rajasthan Royals
+523,2015,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,18,0,GJ Bailey,AK Chaudhary,K Srinivasan,Mumbai Indians,,Kings XI Punjab,
+524,2015,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,8,DA Warner,RM Deshpande,RK Illingworth,Royal Challengers Bangalore,Sunrisers Hyderabad,,Sunrisers Hyderabad
+525,2015,Ahmedabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,0,7,SPD Smith,AK Chaudhary,SD Fry,Mumbai Indians,,,Rajasthan Royals
+526,2015,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,AD Russell,AK Chaudhary,M Erasmus,Chennai Super Kings,Kolkata Knight Riders,,Kolkata Knight Riders
+527,2015,Pune,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,Delhi Daredevils,0,5,MA Agarwal,CB Gaffaney,K Srinath,Kings XI Punjab,,,Delhi Daredevils
+528,2015,Visakhapatnam,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,AM Rahane,PG Pathak,S Ravi,Sunrisers Hyderabad,Rajasthan Royals,,Rajasthan Royals
+529,2015,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,0,6,A Nehra,AK Chaudhary,M Erasmus,Mumbai Indians,,,Chennai Super Kings
+530,2015,Visakhapatnam,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Delhi Daredevils,4,0,JP Duminy,PG Pathak,S Ravi,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,
+531,2015,Pune,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,AD Russell,SD Fry,CK Nandan,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+532,2015,Ahmedabad,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,0,8,AM Rahane,AK Chaudhary,M Erasmus,Chennai Super Kings,,,Rajasthan Royals
+533,2015,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,18,0,Harbhajan Singh,RK Illingworth,VA Kulkarni,Royal Challengers Bangalore,,Mumbai Indians,
+534,2015,Delhi,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,UT Yadav,SD Fry,CB Gaffaney,Delhi Daredevils,Kolkata Knight Riders,,Kolkata Knight Riders
+535,2015,Ahmedabad,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,tie,Kings XI Punjab,0,0,SE Marsh,M Erasmus,S Ravi,Rajasthan Royals,Kings XI Punjab,,Kings XI Punjab
+536,2015,Visakhapatnam,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,16,0,DA Warner,RK Illingworth,VA Kulkarni,Kolkata Knight Riders,,Sunrisers Hyderabad,
+537,2015,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Chennai Super Kings,27,0,SK Raina,JD Cloete,C Shamshuddin,Royal Challengers Bangalore,,Chennai Super Kings,
+538,2015,Delhi,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,37,0,SS Iyer,SD Fry,CK Nandan,Mumbai Indians,,Delhi Daredevils,
+539,2015,Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,MA Starc,M Erasmus,S Ravi,Rajasthan Royals,Royal Challengers Bangalore,,Royal Challengers Bangalore
+540,2015,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Mumbai Indians,20,0,SL Malinga,HDPK Dharmasena,CB Gaffaney,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,
+541,2015,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,97,0,BB McCullum,JD Cloete,C Shamshuddin,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,
+542,2015,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,10,VR Aaron,M Erasmus,S Ravi,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+543,2015,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,20,0,TA Boult,HDPK Dharmasena,CB Gaffaney,Kings XI Punjab,,Sunrisers Hyderabad,
+544,2015,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,13,0,PP Chawla,AK Chaudhary,M Erasmus,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,
+545,2015,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,Over,0,0,Over,JD Cloete,PG Pathak,Royal Challengers Bangalore,,Over,
+546,2015,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings,2,0,DJ Bravo,RM Deshpande,VA Kulkarni,Kolkata Knight Riders,,Chennai Super Kings,
+547,2015,Delhi,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,9,NM Coulter-Nile,RK Illingworth,S Ravi,Kings XI Punjab,Delhi Daredevils,,Delhi Daredevils
+548,2015,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,8,0,AT Rayudu,HDPK Dharmasena,CK Nandan,Rajasthan Royals,,Mumbai Indians,
+549,2015,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,Mandeep Singh,JD Cloete,PG Pathak,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+550,2015,Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Sunrisers Hyderabad,22,0,DA Warner,AK Chaudhary,K Srinivasan,Chennai Super Kings,,Sunrisers Hyderabad,
+551,2015,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians,23,0,LMP Simmons,RK Illingworth,VA Kulkarni,Kings XI Punjab,Mumbai Indians,Mumbai Indians,
+552,2015,Mumbai,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,14,0,AM Rahane,HDPK Dharmasena,CB Gaffaney,Delhi Daredevils,,Rajasthan Royals,
+553,2015,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,24,0,SK Raina,C Shamshuddin,K Srinath,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,
+554,2015,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,35,0,UT Yadav,AK Chaudhary,M Erasmus,Sunrisers Hyderabad,,Kolkata Knight Riders,
+555,2015,Mumbai,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians,0,5,Harbhajan Singh,HDPK Dharmasena,CB Gaffaney,Delhi Daredevils,,,Mumbai Indians
+556,2015,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,138,0,CH Gayle,RK Illingworth,VA Kulkarni,Kings XI Punjab,,Royal Challengers Bangalore,
+557,2015,Mumbai,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad,7,0,EJG Morgan,JD Cloete,C Shamshuddin,Rajasthan Royals,,Sunrisers Hyderabad,
+558,2015,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Mumbai Indians,0,6,HH Pandya,CB Gaffaney,CK Nandan,Chennai Super Kings,,,Mumbai Indians
+559,2015,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,1,AD Russell,AK Chaudhary,HDPK Dharmasena,Kings XI Punjab,,,Kolkata Knight Riders
+560,2015,Raipur,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,6,0,MC Henriques,VA Kulkarni,S Ravi,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,
+561,2015,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,39,0,AB de Villiers,JD Cloete,C Shamshuddin,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,
+562,2015,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings,12,0,RA Jadeja,M Erasmus,CK Nandan,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,
+563,2015,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,5,0,DA Warner,AK Chaudhary,HDPK Dharmasena,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,
+564,2015,Raipur,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,0,6,Z Khan,RK Illingworth,VA Kulkarni,Chennai Super Kings,,,Delhi Daredevils
+565,2015,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,22,0,AR Patel,JD Cloete,C Shamshuddin,Royal Challengers Bangalore,,Kings XI Punjab,
+566,2015,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,5,0,HH Pandya,RK Illingworth,VA Kulkarni,Kolkata Knight Riders,,Mumbai Indians,
+567,2015,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore,0,6,V Kohli,AK Chaudhary,HDPK Dharmasena,Sunrisers Hyderabad,,,Royal Challengers Bangalore
+568,2015,Chandigarh,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings,0,7,P Negi,CK Nandan,C Shamshuddin,Kings XI Punjab,,,Chennai Super Kings
+569,2015,Mumbai,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,9,0,SR Watson,RM Deshpande,RK Illingworth,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,
+570,2015,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,Over,0,0,Over,HDPK Dharmasena,K Srinivasan,Delhi Daredevils,,Over,
+571,2015,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,0,9,MJ McClenaghan,CB Gaffaney,K Srinath,Sunrisers Hyderabad,,,Mumbai Indians
+572,2015,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,25,0,KA Pollard,HDPK Dharmasena,RK Illingworth,Chennai Super Kings,Mumbai Indians,Mumbai Indians,
+573,2015,Pune,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,71,0,AB de Villiers,AK Chaudhary,C Shamshuddin,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,
+574,2015,Ranchi,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,3,A Nehra,AK Chaudhary,CB Gaffaney,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+575,2015,Kolkata,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,41,0,RG Sharma,HDPK Dharmasena,RK Illingworth,Chennai Super Kings,,Mumbai Indians,
+576,2016,Mumbai,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,normal,Rising Pune Supergiants,0,9,AM Rahane,HDPK Dharmasena,CK Nandan,Mumbai Indians,,,Rising Pune Supergiants
+577,2016,Kolkata,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,AD Russell,S Ravi,C Shamshuddin,Delhi Daredevils,Kolkata Knight Riders,,Kolkata Knight Riders
+578,2016,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,5,AJ Finch,AK Chaudhary,VA Kulkarni,Kings XI Punjab,Gujarat Lions,,Gujarat Lions
+579,2016,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Royal Challengers Bangalore,45,0,AB de Villiers,HDPK Dharmasena,VK Sharma,Sunrisers Hyderabad,,Royal Challengers Bangalore,
+580,2016,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,RG Sharma,Nitin Menon,S Ravi,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+581,2016,Rajkot,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,bat,normal,Gujarat Lions,0,7,AJ Finch,VA Kulkarni,CK Nandan,Rising Pune Supergiants,,,Gujarat Lions
+582,2016,Delhi,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,A Mishra,S Ravi,C Shamshuddin,Kings XI Punjab,Delhi Daredevils,,Delhi Daredevils
+583,2016,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,0,8,G Gambhir,AK Chaudhary,CK Nandan,Sunrisers Hyderabad,,,Kolkata Knight Riders
+584,2016,Mumbai,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,3,AJ Finch,HDPK Dharmasena,VK Sharma,Mumbai Indians,Gujarat Lions,,Gujarat Lions
+585,2016,Chandigarh,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,bat,normal,Kings XI Punjab,0,6,M Vohra,S Ravi,C Shamshuddin,Rising Pune Supergiants,,,Kings XI Punjab
+586,2016,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Q de Kock,VA Kulkarni,A Nand Kishore,Royal Challengers Bangalore,Delhi Daredevils,,Delhi Daredevils
+587,2016,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,7,DA Warner,HDPK Dharmasena,VK Sharma,Mumbai Indians,Sunrisers Hyderabad,,Sunrisers Hyderabad
+588,2016,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,RV Uthappa,S Ravi,C Shamshuddin,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+589,2016,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,RG Sharma,AK Chaudhary,CK Nandan,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+590,2016,Rajkot,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,10,B Kumar,K Bharatan,HDPK Dharmasena,Gujarat Lions,Sunrisers Hyderabad,,Sunrisers Hyderabad
+591,2016,Pune,Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Royal Challengers Bangalore,13,0,AB de Villiers,CB Gaffaney,VK Sharma,Rising Pune Supergiants,,Royal Challengers Bangalore,
+592,2016,Delhi,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,10,0,SV Samson,S Ravi,C Shamshuddin,Mumbai Indians,,Delhi Daredevils,
+593,2016,Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,Mustafizur Rahman,AK Chaudhary,CK Nandan,Kings XI Punjab,Sunrisers Hyderabad,,Sunrisers Hyderabad
+594,2016,Rajkot,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,bat,normal,Gujarat Lions,0,6,V Kohli,K Bharatan,BNJ Oxenford,Royal Challengers Bangalore,,,Gujarat Lions
+595,2016,Pune,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,2,SA Yadav,CB Gaffaney,A Nand Kishore,Rising Pune Supergiants,Kolkata Knight Riders,,Kolkata Knight Riders
+596,2016,Chandigarh,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,25,0,PA Patel,Nitin Menon,RJ Tucker,Kings XI Punjab,,Mumbai Indians,
+597,2016,Hyderabad,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,34,0,AB Dinda,AY Dandekar,CK Nandan,Sunrisers Hyderabad,Rising Pune Supergiants,,Rising Pune Supergiants
+598,2016,Delhi,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Gujarat Lions,1,0,CH Morris,M Erasmus,S Ravi,Delhi Daredevils,,Gujarat Lions,
+599,2016,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,RG Sharma,Nitin Menon,RJ Tucker,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+600,2016,Pune,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,3,DR Smith,CB Gaffaney,BNJ Oxenford,Rising Pune Supergiants,Gujarat Lions,,Gujarat Lions
+601,2016,Delhi,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Daredevils,27,0,CR Brathwaite,KN Ananthapadmanabhan,M Erasmus,Kolkata Knight Riders,,Delhi Daredevils,
+602,2016,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,15,0,DA Warner,AK Chaudhary,HDPK Dharmasena,Royal Challengers Bangalore,,Sunrisers Hyderabad,
+603,2016,Rajkot,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab,23,0,AR Patel,BNJ Oxenford,VK Sharma,Gujarat Lions,,Kings XI Punjab,
+604,2016,Pune,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,RG Sharma,AY Dandekar,RJ Tucker,Rising Pune Supergiants,Mumbai Indians,,Mumbai Indians
+605,2016,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,AD Russell,M Erasmus,S Ravi,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+606,2016,Rajkot,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,RR Pant,CB Gaffaney,BNJ Oxenford,Gujarat Lions,Delhi Daredevils,,Delhi Daredevils
+607,2016,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,7,0,AD Russell,AK Chaudhary,HDPK Dharmasena,Kings XI Punjab,,Kolkata Knight Riders,
+608,2016,Delhi,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,0,7,AM Rahane,C Shamshuddin,RJ Tucker,Delhi Daredevils,Rising Pune Supergiants,,Rising Pune Supergiants
+609,2016,Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,B Kumar,M Erasmus,S Ravi,Gujarat Lions,Sunrisers Hyderabad,,Sunrisers Hyderabad
+610,2016,Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,V Kohli,CB Gaffaney,BNJ Oxenford,Rising Pune Supergiants,Royal Challengers Bangalore,,Royal Challengers Bangalore
+611,2016,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,9,0,MP Stoinis,HDPK Dharmasena,CK Nandan,Delhi Daredevils,,Kings XI Punjab,
+612,2016,Visakhapatnam,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,85,0,A Nehra,S Ravi,C Shamshuddin,Mumbai Indians,,Sunrisers Hyderabad,
+613,2016,Kolkata,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,5,P Kumar,M Erasmus,RJ Tucker,Kolkata Knight Riders,Gujarat Lions,,Gujarat Lions
+614,2016,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,1,0,SR Watson,AK Chaudhary,HDPK Dharmasena,Kings XI Punjab,,Royal Challengers Bangalore,
+615,2016,Visakhapatnam,Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,4,0,A Zampa,CB Gaffaney,VK Sharma,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,
+616,2016,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,KH Pandya,AY Dandekar,C Shamshuddin,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+617,2016,Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,CH Morris,K Bharatan,M Erasmus,Sunrisers Hyderabad,Delhi Daredevils,,Delhi Daredevils
+618,2016,Visakhapatnam,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,0,7,MP Stoinis,HDPK Dharmasena,CK Nandan,Mumbai Indians,,,Kings XI Punjab
+619,2016,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore,144,0,AB de Villiers,AY Dandekar,VK Sharma,Gujarat Lions,,Royal Challengers Bangalore,
+620,2016,Kolkata,Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,bat,normal,Kolkata Knight Riders,0,8,YK Pathan,A Nand Kishore,BNJ Oxenford,Rising Pune Supergiants,,,Kolkata Knight Riders
+621,2016,Chandigarh,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad,0,7,HM Amla,KN Ananthapadmanabhan,M Erasmus,Kings XI Punjab,,,Sunrisers Hyderabad
+622,2016,Visakhapatnam,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,80,0,KH Pandya,Nitin Menon,CK Nandan,Delhi Daredevils,,Mumbai Indians,
+623,2016,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,V Kohli,CB Gaffaney,A Nand Kishore,Kolkata Knight Riders,Royal Challengers Bangalore,,Royal Challengers Bangalore
+624,2016,Visakhapatnam,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,19,0,AB Dinda,Nitin Menon,C Shamshuddin,Delhi Daredevils,Rising Pune Supergiants,,Rising Pune Supergiants
+625,2016,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,82,0,V Kohli,KN Ananthapadmanabhan,M Erasmus,Kings XI Punjab,,Royal Challengers Bangalore,
+626,2016,Kanpur,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,6,DR Smith,AK Chaudhary,CK Nandan,Kolkata Knight Riders,Gujarat Lions,,Gujarat Lions
+627,2016,Raipur,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,KK Nair,A Nand Kishore,BNJ Oxenford,Sunrisers Hyderabad,Delhi Daredevils,,Delhi Daredevils
+628,2016,Visakhapatnam,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,bat,normal,Rising Pune Supergiants,0,4,MS Dhoni,HDPK Dharmasena,Nitin Menon,Kings XI Punjab,,,Rising Pune Supergiants
+629,2016,Kanpur,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,6,SK Raina,AK Chaudhary,CK Nandan,Mumbai Indians,Gujarat Lions,,Gujarat Lions
+630,2016,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,22,0,YK Pathan,KN Ananthapadmanabhan,M Erasmus,Sunrisers Hyderabad,,Kolkata Knight Riders,
+631,2016,Raipur,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,V Kohli,A Nand Kishore,BNJ Oxenford,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+632,2016,Bangalore,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,AB de Villiers,AK Chaudhary,HDPK Dharmasena,Gujarat Lions,Royal Challengers Bangalore,,Royal Challengers Bangalore
+633,2016,Delhi,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,22,0,MC Henriques,M Erasmus,C Shamshuddin,Kolkata Knight Riders,,Sunrisers Hyderabad,
+634,2016,Delhi,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,4,DA Warner,M Erasmus,CK Nandan,Gujarat Lions,Sunrisers Hyderabad,,Sunrisers Hyderabad
+635,2016,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,8,0,BCJ Cutting,HDPK Dharmasena,BNJ Oxenford,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,
+636,2018,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,1,DJ Bravo,Chris Gaffaney,A Nanda Kishore,Mumbai Indians,Chennai Super Kings,,Chennai Super Kings
+637,2018,Mohali,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,KL Rahul,Rod Tucker,K Ananthapadmanabhan,Delhi Daredevils,Kings XI Punjab,,Kings XI Punjab
+638,2018,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,SP Narine,C Shamshuddin,A.D Deshmukh,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+639,2018,Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,9,S Dhawan,Nigel Llong,Vineet Kulkarni,Rajasthan Royals,Sunrisers Hyderabad,,Sunrisers Hyderabad
+640,2018,Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,SW Billings,Anil Chaudhary,Chris Gaffaney,Kolkata Knight Riders,Chennai Super Kings,,Chennai Super Kings
+641,2018,Jaipur,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,10,0,SV Samson,K Ananthapadmanabhan,Rod Tucker,Delhi Daredevils,,Rajasthan Royals,
+642,2018,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,1,Rashid Khan,O Nandan,Nigel Llong,Mumbai Indians,Sunrisers Hyderabad,,Sunrisers Hyderabad
+643,2018,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,UT Yadav,S Ravi,A.D Deshmukh,Kings XI Punjab,Royal Challengers Bangalore,,Royal Challengers Bangalore
+644,2018,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,JJ Roy,K Ananthapadmanabhan,Nitin Menon,Mumbai Indians,Delhi Daredevils,,Delhi Daredevils
+645,2018,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,B Stanlake,A Nanda Kishore,Anil Chaudhary,Kolkata Knight Riders,Sunrisers Hyderabad,,Sunrisers Hyderabad
+646,2018,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rajasthan Royals,19,0,SV Samson,C Shamshuddin,S Ravi,Royal Challengers Bangalore,,Rajasthan Royals,
+647,2018,Mohali,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,4,0,CH Gayle,Vineet Kulkarni,O Nandan,Chennai Super Kings,,Kings XI Punjab,
+648,2018,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Kolkata Knight Riders,71,0,N Rana,Anil Chaudhary,A Nanda Kishore,Delhi Daredevils,,Kolkata Knight Riders,
+649,2018,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,46,0,RG Sharma,Rod Tucker,Nitin Menon,Royal Challengers Bangalore,,Mumbai Indians,
+650,2018,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,N Rana,S Ravi,A.D Deshmukh,Rajasthan Royals,Kolkata Knight Riders,,Kolkata Knight Riders
+651,2018,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Kings XI Punjab,15,0,CH Gayle,Nigel Llong,Anil Chaudhary,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,
+652,2018,Pune,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,64,0,SR Watson,Nitin Menon,K Ananthapadmanabhan,Rajasthan Royals,,Chennai Super Kings,
+653,2018,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,9,KL Rahul,C Shamshuddin,A.D Deshmukh,Kolkata Knight Riders,Kings XI Punjab,,Kings XI Punjab
+654,2018,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,AB de Villiers,Chris Gaffaney,O Nandan,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+655,2018,Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Chennai Super Kings,4,0,AT Rayudu,Anil Chaudhary,Vineet Kulkarni,Sunrisers Hyderabad,,Chennai Super Kings,
+656,2018,Jaipur,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,0,3,J Archer,Rod Tucker,K Ananthapadmanabhan,Mumbai Indians,,,Rajasthan Royals
+657,2018,Delhi,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,4,0,AS Rajpoot,O Nandan,A Nanda Kishore,Delhi Daredevils,,Kings XI Punjab,
+658,2018,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,31,0,Rashid Khan,C Shamshuddin,S Ravi,Mumbai Indians,,Sunrisers Hyderabad,
+659,2018,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,MS Dhoni,Nigel Llong,Virender Kumar Sharma,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+660,2018,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,13,0,AS Rajpoot,O Nandan,Yeshwant Barde,Kings XI Punjab,,Sunrisers Hyderabad,
+661,2018,Delhi,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Daredevils,55,0,SS Iyer,C Shamshuddin,S Ravi,Kolkata Knight Riders,,Delhi Daredevils,
+662,2018,Pune,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,RG Sharma,Chris Gaffaney,Nitin Menon,Chennai Super Kings,Mumbai Indians,,Mumbai Indians
+663,2018,Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,11,0,KS Williamson,Bruce Oxenford,A Nanda Kishore,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,
+664,2018,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,CA Lynn,Nigel Llong,Anil Chaudhary,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+665,2018,Pune,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,13,0,SR Watson,C Shamshuddin,Anil Dandekar,Delhi Daredevils,,Chennai Super Kings,
+666,2018,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,14,0,TG Southee,Marais Erasmus,Nitin Menon,Mumbai Indians,,Royal Challengers Bangalore,
+667,2018,Delhi,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Delhi Daredevils,4,0,RR Pant,O Nandan,Virender Kumar Sharma,Rajasthan Royals,,Delhi Daredevils,
+668,2018,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,SP Narine,Kumar Dharmasena,A.D Deshmukh,Chennai Super Kings,Kolkata Knight Riders,,Kolkata Knight Riders
+669,2018,Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,AS Yadav,S Ravi,Anil Dandekar,Kings XI Punjab,Mumbai Indians,,Mumbai Indians
+670,2018,Pune,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,RA Jadeja,Nitin Menon,Yeshwant Barde,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+671,2018,Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,7,Rashid Khan,Bruce Oxenford,O Nandan,Delhi Daredevils,,,Sunrisers Hyderabad
+672,2018,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,13,0,HH Pandya,Kumar Dharmasena,A.D Deshmukh,Kolkata Knight Riders,,Mumbai Indians,
+673,2018,Indore,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,M Ur Rahman,C Shamshuddin,S Ravi,Rajasthan Royals,Kings XI Punjab,,Kings XI Punjab
+674,2018,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,5,0,KS Williamson,Bruce Oxenford,Virender Kumar Sharma,Royal Challengers Bangalore,,Sunrisers Hyderabad,
+675,2018,Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals,15,0,JC Buttler,Marais Erasmus,Nitin Menon,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,
+676,2018,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,102,0,Ishan Kishan,Anil Chaudhary,K Ananthapadmanabhan,Kolkata Knight Riders,,Mumbai Indians,
+677,2018,Delhi,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,9,S Dhawan,C Shamshuddin,Anil Dandekar,Delhi Daredevils,,,Sunrisers Hyderabad
+678,2018,Jaipur,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,0,4,JC Buttler,Marais Erasmus,Yeshwant Barde,Chennai Super Kings,,,Rajasthan Royals
+679,2018,Indore,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,31,0,SP Narine,O Nandan,Virender Kumar Sharma,Kings XI Punjab,,Kolkata Knight Riders,
+680,2018,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,5,AB de Villiers,Kumar Dharmasena,Anil Chaudhary,Delhi Daredevils,Royal Challengers Bangalore,,Royal Challengers Bangalore
+681,2018,Pune,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,AT Rayudu,Marais Erasmus,Yeshwant Barde,Sunrisers Hyderabad,Chennai Super Kings,,Chennai Super Kings
+682,2018,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,JC Buttler,Nitin Menon,S Ravi,Mumbai Indians,Rajasthan Royals,,Rajasthan Royals
+683,2018,Indore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,10,UT Yadav,Bruce Oxenford,Virender Kumar Sharma,Kings XI Punjab,Royal Challengers Bangalore,,Royal Challengers Bangalore
+684,2018,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Kuldeep Yadav,Kumar Dharmasena,Anil Chaudhary,Rajasthan Royals,Kolkata Knight Riders,,Kolkata Knight Riders
+685,2018,Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,3,0,JJ Bumrah,Marais Erasmus,Nitin Menon,Kings XI Punjab,,Mumbai Indians,
+686,2018,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Royal Challengers Bangalore,14,0,AB de Villiers,S Ravi,Anil Dandekar,Sunrisers Hyderabad,,Royal Challengers Bangalore,
+687,2018,Delhi,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Delhi Daredevils,34,0,HV Patel,Kumar Dharmasena,Vineet Kulkarni,Chennai Super Kings,,Delhi Daredevils,
+688,2018,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Rajasthan Royals,30,0,S Gopal,Bruce Oxenford,Virender Kumar Sharma,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,
+689,2018,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,0,5,CA Lynn,Anil Chaudhary,S Ravi,Sunrisers Hyderabad,,,Kolkata Knight Riders
+690,2018,Delhi,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Delhi Daredevils,11,0,A Mishra,Kumar Dharmasena,O Nandan,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,
+691,2018,Pune,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,L Ngidi,Nitin Menon,Yeshwant Barde,Kings XI Punjab,Chennai Super Kings,,Chennai Super Kings
+692,2018,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,2,F du Plessis,Marais Erasmus,C Shamshuddin,Sunrisers Hyderabad,Chennai Super Kings,,Chennai Super Kings
+693,2018,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Kolkata Knight Riders,25,0,AD Russell,Nitin Menon,Anil Chaudhary,Rajasthan Royals,,Kolkata Knight Riders,
+694,2018,Kolkata,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,14,0,Rashid Khan,Nitin Menon,Kumar Dharmasena,Kolkata Knight Riders,,Sunrisers Hyderabad,
+695,2018,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,SR Watson,Marais Erasmus,S Ravi,Sunrisers Hyderabad,Chennai Super Kings,,Chennai Super Kings
+696,2019,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,7,Harbhajan Singh,Bruce Oxenford,Anil Dandekar,Royal Challengers Bangalore,Chennai Super Kings,,Chennai Super Kings
+697,2019,Kolkata,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,AD Russell,Chris Gaffaney,Anil Chaudhary,Sunrisers Hyderabad,Kolkata Knight Riders,,Kolkata Knight Riders
+698,2019,Mumbai,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,Delhi Capitals,37,0,RR Pant,S Ravi,Yeshwant Barde,Mumbai Indians,,Delhi Capitals,
+699,2019,Jaipur,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,14,0,CH Gayle,C Shamshuddin,KN Anantapadmanabhan,Rajasthan Royals,,Kings XI Punjab,
+700,2019,Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,Chennai Super Kings,0,6,SR Watson,Marais Erasmus,Nitin Menon,Delhi Capitals,,,Chennai Super Kings
+701,2019,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,28,0,AD Russell,Anil Chaudhary,Vineet Kulkarni,Kings XI Punjab,,Kolkata Knight Riders,
+702,2019,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,6,0,JJ Bumrah,S Ravi,O Nandan,Royal Challengers Bangalore,,Mumbai Indians,
+703,2019,Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,Sunrisers Hyderabad,0,5,Rashid Khan,Bruce Oxenford,C Shamshuddin,Rajasthan Royals,,,Sunrisers Hyderabad
+704,2019,Mohali,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,8,MA Agarwal,Vineet Kulkarni,Chris Gaffaney,Mumbai Indians,Kings XI Punjab,,Kings XI Punjab
+705,2019,Delhi,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,tie,Delhi Capitals,0,0,P Shaw,Anil Dandekar,Nitin Menon,Kolkata Knight Riders,Delhi Capitals,,Delhi Capitals
+706,2019,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,118,0,J Bairstow,S Ravi,KN Anantapadmanabhan,Royal Challengers Bangalore,,Sunrisers Hyderabad,
+707,2019,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,8,0,MS Dhoni,O Nandan,Yeshwant Barde,Rajasthan Royals,,Chennai Super Kings,
+708,2019,Mohali,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,Kings XI Punjab,14,0,S Curran,Anil Chaudhary,Chris Gaffaney,Delhi Capitals,,Kings XI Punjab,
+709,2019,Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,S Gopal,Marais Erasmus,Anil Dandekar,Royal Challengers Bangalore,Rajasthan Royals,,Rajasthan Royals
+710,2019,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,37,0,HH Pandya,Bruce Oxenford,Rod Tucker,Chennai Super Kings,,Mumbai Indians,
+711,2019,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,J Bairstow,C Shamshuddin,KN Anantapadmanabhan,Delhi Capitals,Sunrisers Hyderabad,,Sunrisers Hyderabad
+712,2019,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,AD Russell,Anil Chaudhary,Chris Gaffaney,Royal Challengers Bangalore,Kolkata Knight Riders,,Kolkata Knight Riders
+713,2019,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,22,0,Harbhajan Singh,KN Ananthapadmanabhan,Rod Tucker,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,
+714,2019,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Mumbai Indians,40,0,A Joseph,Anil Dandekar,Nitin Menon,Sunrisers Hyderabad,,Mumbai Indians,
+715,2019,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,4,K Rabada,S Ravi,Yeshwant Barde,Royal Challengers Bangalore,Delhi Capitals,,Delhi Capitals
+716,2019,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,H Gurney,Chris Gaffaney,Anil Chaudhary,Rajasthan Royals,Kolkata Knight Riders,,Kolkata Knight Riders
+717,2019,Mohali,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,KL Rahul,Marais Erasmus,Anil Dandekar,Sunrisers Hyderabad,Kings XI Punjab,,Kings XI Punjab
+718,2019,Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,7,DL Chahar,Rod Tucker,C Shamshuddin,Kolkata Knight Riders,Chennai Super Kings,,Chennai Super Kings
+719,2019,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,3,KA Pollard,Yeshwant Barde,S Ravi,Kings XI Punjab,Mumbai Indians,,Mumbai Indians
+720,2019,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,MS Dhoni,Bruce Oxenford,Ulhas Gandhe,Rajasthan Royals,Chennai Super Kings,,Chennai Super Kings
+721,2019,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,7,S Dhawan,Yeshwant Barde,O Nandan,Kolkata Knight Riders,Delhi Capitals,,Delhi Capitals
+722,2019,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,4,JC Buttler,Nitin Menon,Nanda Kishore,Mumbai Indians,Rajasthan Royals,,Rajasthan Royals
+723,2019,Mohali,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,AB de Villiers,S Ravi,Ulhas Gandhe,Kings XI Punjab,Royal Challengers Bangalore,,Royal Challengers Bangalore
+724,2019,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,Imran Tahir,Rod Tucker,O Nandan,Kolkata Knight Riders,Chennai Super Kings,,Chennai Super Kings
+725,2019,Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Delhi Capitals,39,0,K Paul,Anil Chaudhary,Bruce Oxenford,Sunrisers Hyderabad,,Delhi Capitals,
+726,2019,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,SL Malinga,Marais Erasmus,Nitin Menon,Royal Challengers Bangalore,Mumbai Indians,,Mumbai Indians
+727,2019,Mohali,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,12,0,R Ashwin,Anil Chaudhary,Vineet Kulkarni,Rajasthan Royals,,Kings XI Punjab,
+728,2019,Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Sunrisers Hyderabad,0,6,DA Warner,Ian Gould,Ulhas Gandhe,Chennai Super Kings,,,Sunrisers Hyderabad
+729,2019,Delhi,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Mumbai Indians,40,0,HH Pandya,Nigel Llong,Bruce Oxenford,Delhi Capitals,Mumbai Indians,Mumbai Indians,
+730,2019,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Royal Challengers Bangalore,10,0,V Kohli,Ian Gould,Nitin Menon,Kolkata Knight Riders,,Royal Challengers Bangalore,
+731,2019,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,5,SPD Smith,S Ravi,Yeshwant Barde,Mumbai Indians,Rajasthan Royals,,Rajasthan Royals
+732,2019,Delhi,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,5,SS Iyer,Ulhas Gandhe,C Shamshuddin,Kings XI Punjab,Delhi Capitals,,Delhi Capitals
+733,2019,Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,9,K Ahmed,Nitin Menon,Nigel Llong,Kolkata Knight Riders,Sunrisers Hyderabad,,Sunrisers Hyderabad
+734,2019,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,1,0,PA Patel,Vineet Kulkarni,Rod Tucker,Chennai Super Kings,,Royal Challengers Bangalore,
+735,2019,Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,6,RR Pant,S Ravi,Nanda Kishore,Rajasthan Royals,Delhi Capitals,,Delhi Capitals
+736,2019,Chennai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,SR Watson,Nigel Llong,Anil Chaudhary,Sunrisers Hyderabad,Chennai Super Kings,,Chennai Super Kings
+737,2019,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,17,0,AB de Villiers,Bruce Oxenford,C Shamshuddin,Kings XI Punjab,,Royal Challengers Bangalore,
+738,2019,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,VR Aaron,Ian Gould,Anil Dandekar,Kolkata Knight Riders,Rajasthan Royals,,Rajasthan Royals
+739,2019,Chennai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,46,0,RG Sharma,Nigel Llong,Anil Chaudhary,Chennai Super Kings,,Mumbai Indians,
+740,2019,Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,JD Unadkat,Yeshwant Barde,Nand Kishore,Sunrisers Hyderabad,Rajasthan Royals,,Rajasthan Royals
+741,2019,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,Delhi Capitals,16,0,S Dhawan,Bruce Oxenford,KN Ananthapadmanabhan,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,
+742,2019,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Kolkata Knight Riders,34,0,AD Russell,Ian Gould,Nitin Menon,Mumbai Indians,,Kolkata Knight Riders,
+743,2019,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,45,0,DA Warner,S Ravi,O Nandan,Kings XI Punjab,,Sunrisers Hyderabad,
+744,2019,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,Over,0,0,Over,Nigel Llong,Ulhas Gandhe,Royal Challengers Bangalore,,Over,
+745,2019,Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,Chennai Super Kings,80,0,MS Dhoni,Anil Dandekar,Nitin Menon,Delhi Capitals,,Chennai Super Kings,
+746,2019,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,Mumbai Indians,0,0,JJ Bumrah,S Ravi,O Nandan,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,
+747,2019,Mohali,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,S Gill,Bruce Oxenford,C Shamshuddin,Kings XI Punjab,Kolkata Knight Riders,,Kolkata Knight Riders
+748,2019,Delhi,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,Delhi Capitals,0,5,A Mishra,Ian Gould,Anil Dandekar,Rajasthan Royals,,,Delhi Capitals
+749,2019,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,S Hetmyer,Nigel Llong,Anil Chaudhary,Sunrisers Hyderabad,Royal Challengers Bangalore,,Royal Challengers Bangalore
+750,2019,Mohali,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,KL Rahul,KN Ananthapadmanabhan,C Shamshuddin,Chennai Super Kings,Kings XI Punjab,,Kings XI Punjab
+751,2019,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,HH Pandya,Nanda Kishore,O Nandan,Kolkata Knight Riders,Mumbai Indians,,Mumbai Indians
+752,2019,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Mumbai Indians,0,6,AS Yadav,Nigel Llong,Nitin Menon,Chennai Super Kings,,,Mumbai Indians
+753,2019,Visakhapatnam,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,2,RR Pant,Bruce Oxenford,S Ravi,Sunrisers Hyderabad,Delhi Capitals,,Delhi Capitals
+754,2019,Visakhapatnam,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,F du Plessis,S Ravi,Bruce Oxenford,Delhi Capitals,Chennai Super Kings,,Chennai Super Kings
+755,2019,Hyderabad,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,1,0,JJ Bumrah,Nitin Menon,Ian Gould,Chennai Super Kings,Mumbai Indians,Mumbai Indians,
